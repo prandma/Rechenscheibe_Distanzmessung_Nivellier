@@ -1,0 +1,2705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="297mm"
+   height="210mm"
+   version="1.1"
+   id="svg478"
+   sodipodi:docname="Nivellierskalen.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <defs
+     id="defs482" />
+  <sodipodi:namedview
+     id="namedview480"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.1172287"
+     inkscape:cx="536.14805"
+     inkscape:cy="308.35226"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg478"
+     units="mm"
+     inkscape:document-units="mm" />
+  <g
+     id="g20260"
+     transform="translate(-31.883002,31.440654)">
+    <line
+       x1="288"
+       y1="300"
+       x2="312"
+       y2="300"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line2" />
+    <line
+       x1="300"
+       y1="288"
+       x2="300"
+       y2="312"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line4" />
+    <circle
+       cx="300"
+       cy="300"
+       r="210"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6" />
+    <circle
+       cx="300"
+       cy="300"
+       r="150"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle8" />
+    <line
+       x1="377.50201"
+       y1="495.17499"
+       x2="375.28699"
+       y2="489.599"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line10" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(68.343,300,300)"
+       id="text12">3</text>
+    <line
+       x1="363.646"
+       y1="500.12299"
+       x2="362.55499"
+       y2="496.69199"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line14" />
+    <line
+       x1="350.34601"
+       y1="503.87601"
+       x2="349.483"
+       y2="500.38101"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line16" />
+    <line
+       x1="337.604"
+       y1="506.60599"
+       x2="336.95999"
+       y2="503.064"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line18" />
+    <line
+       x1="325.418"
+       y1="508.45599"
+       x2="324.983"
+       y2="504.88199"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line20" />
+    <line
+       x1="313.776"
+       y1="509.548"
+       x2="313.38199"
+       y2="503.561"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line22" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(86.239,300,300)"
+       id="text24">4</text>
+    <line
+       x1="302.66101"
+       y1="509.983"
+       x2="302.616"
+       y2="506.383"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line26" />
+    <line
+       x1="292.056"
+       y1="509.85001"
+       x2="292.19299"
+       y2="506.25201"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line28" />
+    <line
+       x1="281.94199"
+       y1="509.22198"
+       x2="282.25101"
+       y2="505.63501"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line30" />
+    <line
+       x1="272.297"
+       y1="508.16501"
+       x2="272.771"
+       y2="504.59601"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line32" />
+    <line
+       x1="263.10101"
+       y1="506.733"
+       x2="264.68201"
+       y2="497.87299"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line34" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(100.12,300,300)"
+       id="text36">5</text>
+    <line
+       x1="241.94299"
+       y1="501.815"
+       x2="242.938"
+       y2="498.35599"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line38" />
+    <line
+       x1="223.164"
+       y1="495.439"
+       x2="225.36"
+       y2="489.85501"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line40" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(111.462,300,300)"
+       id="text42">6</text>
+    <line
+       x1="206.491"
+       y1="488.03201"
+       x2="208.09399"
+       y2="484.80899"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line44" />
+    <line
+       x1="191.681"
+       y1="479.90799"
+       x2="194.77499"
+       y2="474.76801"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line46" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(121.051,300,300)"
+       id="text48">7</text>
+    <line
+       x1="178.52"
+       y1="471.297"
+       x2="180.603"
+       y2="468.36099"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line50" />
+    <line
+       x1="166.825"
+       y1="462.371"
+       x2="170.63"
+       y2="457.73199"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line52" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(129.358,300,300)"
+       id="text54">8</text>
+    <line
+       x1="156.43401"
+       y1="453.26001"
+       x2="158.895"
+       y2="450.633"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line56" />
+    <line
+       x1="147.205"
+       y1="444.061"
+       x2="151.571"
+       y2="439.94501"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line58" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(136.685,300,300)"
+       id="text60">9</text>
+    <line
+       x1="139.01601"
+       y1="434.849"
+       x2="141.776"
+       y2="432.53699"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line62" />
+    <line
+       x1="131.75999"
+       y1="425.67899"
+       x2="141.37399"
+       y2="418.49701"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line64" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(143.239,300,300)"
+       id="text66">10</text>
+    <line
+       x1="125.341"
+       y1="416.595"
+       x2="128.33501"
+       y2="414.59601"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line68" />
+    <line
+       x1="119.678"
+       y1="407.62799"
+       x2="124.83"
+       y2="404.55301"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line70" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(149.169,300,300)"
+       id="text72">11</text>
+    <line
+       x1="114.695"
+       y1="398.80301"
+       x2="117.872"
+       y2="397.10999"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line74" />
+    <line
+       x1="110.329"
+       y1="390.138"
+       x2="115.748"
+       y2="387.56299"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line76" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(154.581,300,300)"
+       id="text78">12</text>
+    <line
+       x1="106.521"
+       y1="381.646"
+       x2="109.838"
+       y2="380.246"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line80" />
+    <line
+       x1="103.221"
+       y1="373.33499"
+       x2="108.843"
+       y2="371.23999"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line82" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(159.561,300,300)"
+       id="text84">13</text>
+    <line
+       x1="100.382"
+       y1="365.21301"
+       x2="103.804"
+       y2="364.095"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line86" />
+    <line
+       x1="97.962997"
+       y1="357.28201"
+       x2="103.736"
+       y2="355.64499"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line88" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(164.171,300,300)"
+       id="text90">14</text>
+    <line
+       x1="95.928001"
+       y1="349.54501"
+       x2="99.427002"
+       y2="348.69501"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line92" />
+    <line
+       x1="94.242996"
+       y1="342.00101"
+       x2="103.061"
+       y2="340.20099"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line94" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(168.463,300,300)"
+       id="text96">15</text>
+    <line
+       x1="92.878998"
+       y1="334.651"
+       x2="96.429001"
+       y2="334.05701"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line98" />
+    <line
+       x1="91.806999"
+       y1="327.492"
+       x2="97.755997"
+       y2="326.707"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line100" />
+    <line
+       x1="91.004997"
+       y1="320.52301"
+       x2="94.587997"
+       y2="320.17099"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line102" />
+    <line
+       x1="90.449997"
+       y1="313.73901"
+       x2="96.436996"
+       y2="313.34601"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line104" />
+    <line
+       x1="90.121002"
+       y1="307.138"
+       x2="93.719002"
+       y2="307.01599"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line106" />
+    <line
+       x1="90.000999"
+       y1="300.716"
+       x2="96.000999"
+       y2="300.69601"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line108" />
+    <line
+       x1="90.072998"
+       y1="294.47"
+       x2="93.671997"
+       y2="294.565"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line110" />
+    <line
+       x1="90.320999"
+       y1="288.39499"
+       x2="96.311996"
+       y2="288.72601"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line112" />
+    <line
+       x1="90.732002"
+       y1="282.487"
+       x2="94.319"
+       y2="282.78699"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line114" />
+    <line
+       x1="91.292"
+       y1="276.742"
+       x2="103.218"
+       y2="278.07101"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line116" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-173.641,300,300)"
+       id="text118">20</text>
+    <line
+       x1="92.816002"
+       y1="265.72299"
+       x2="98.736"
+       y2="266.703"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line120" />
+    <line
+       x1="94.810997"
+       y1="255.30701"
+       x2="100.674"
+       y2="256.58401"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line122" />
+    <line
+       x1="97.206001"
+       y1="245.46001"
+       x2="103"
+       y2="247.01801"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line124" />
+    <line
+       x1="99.942001"
+       y1="236.151"
+       x2="105.658"
+       y2="237.97501"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line126" />
+    <line
+       x1="102.967"
+       y1="227.349"
+       x2="111.412"
+       y2="230.463"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line128" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-159.76,300,300)"
+       id="text130">25</text>
+    <line
+       x1="106.239"
+       y1="219.02699"
+       x2="111.775"
+       y2="221.341"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line132" />
+    <line
+       x1="109.718"
+       y1="211.158"
+       x2="115.155"
+       y2="213.696"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line134" />
+    <line
+       x1="113.374"
+       y1="203.716"
+       x2="118.706"
+       y2="206.467"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line136" />
+    <line
+       x1="117.177"
+       y1="196.677"
+       x2="122.4"
+       y2="199.629"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line138" />
+    <line
+       x1="121.103"
+       y1="190.019"
+       x2="131.326"
+       y2="196.304"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line140" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-148.418,300,300)"
+       id="text142">30</text>
+    <line
+       x1="125.131"
+       y1="183.72099"
+       x2="130.127"
+       y2="187.043"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line144" />
+    <line
+       x1="129.242"
+       y1="177.76401"
+       x2="134.121"
+       y2="181.256"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line146" />
+    <line
+       x1="133.42101"
+       y1="172.12801"
+       x2="138.17999"
+       y2="175.78101"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line148" />
+    <line
+       x1="137.65199"
+       y1="166.797"
+       x2="142.28999"
+       y2="170.60201"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line150" />
+    <line
+       x1="141.924"
+       y1="161.754"
+       x2="148.69901"
+       y2="167.679"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line152" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-138.829,300,300)"
+       id="text154">35</text>
+    <line
+       x1="146.226"
+       y1="156.98399"
+       x2="150.619"
+       y2="161.071"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line156" />
+    <line
+       x1="150.548"
+       y1="152.474"
+       x2="154.81799"
+       y2="156.689"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line158" />
+    <line
+       x1="154.881"
+       y1="148.209"
+       x2="159.02699"
+       y2="152.54601"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line160" />
+    <line
+       x1="159.21899"
+       y1="144.177"
+       x2="163.241"
+       y2="148.629"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line162" />
+    <line
+       x1="163.55499"
+       y1="140.367"
+       x2="171.35201"
+       y2="149.489"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line164" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-130.522,300,300)"
+       id="text166">40</text>
+    <line
+       x1="167.883"
+       y1="136.76601"
+       x2="171.658"
+       y2="141.42999"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line168" />
+    <line
+       x1="172.19901"
+       y1="133.366"
+       x2="175.85001"
+       y2="138.127"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line170" />
+    <line
+       x1="176.49699"
+       y1="130.15601"
+       x2="180.026"
+       y2="135.008"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line172" />
+    <line
+       x1="180.77499"
+       y1="127.126"
+       x2="184.181"
+       y2="132.06599"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line174" />
+    <line
+       x1="185.028"
+       y1="124.269"
+       x2="189.955"
+       y2="131.8"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line176" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-123.195,300,300)"
+       id="text178">45</text>
+    <line
+       x1="189.254"
+       y1="121.576"
+       x2="192.418"
+       y2="126.673"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line180" />
+    <line
+       x1="193.45"
+       y1="119.039"
+       x2="196.494"
+       y2="124.209"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line182" />
+    <line
+       x1="197.614"
+       y1="116.65"
+       x2="200.539"
+       y2="121.889"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line184" />
+    <line
+       x1="201.744"
+       y1="114.404"
+       x2="204.55099"
+       y2="119.707"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line186" />
+    <line
+       x1="205.838"
+       y1="112.294"
+       x2="212.564"
+       y2="125.702"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line188" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-116.64,300,300)"
+       id="text190">50</text>
+    <line
+       x1="213.914"
+       y1="108.456"
+       x2="216.37399"
+       y2="113.928"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line192" />
+    <line
+       x1="221.83299"
+       y1="105.09"
+       x2="224.06599"
+       y2="110.659"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line194" />
+    <line
+       x1="229.588"
+       y1="102.156"
+       x2="231.60001"
+       y2="107.809"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line196" />
+    <line
+       x1="237.175"
+       y1="99.617996"
+       x2="238.97"
+       y2="105.343"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line198" />
+    <line
+       x1="244.592"
+       y1="97.442001"
+       x2="247.758"
+       y2="109.016"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line200" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-105.299,300,300)"
+       id="text202">60</text>
+    <line
+       x1="251.83701"
+       y1="95.598"
+       x2="253.213"
+       y2="101.438"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line204" />
+    <line
+       x1="258.91"
+       y1="94.058998"
+       x2="260.08401"
+       y2="99.943001"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line206" />
+    <line
+       x1="265.81201"
+       y1="92.802002"
+       x2="266.789"
+       y2="98.722"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line208" />
+    <line
+       x1="272.54401"
+       y1="91.803001"
+       x2="273.32901"
+       y2="97.750999"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line210" />
+    <line
+       x1="279.10901"
+       y1="91.042"
+       x2="280.30301"
+       y2="102.982"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line212" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-95.709,300,300)"
+       id="text214">70</text>
+    <line
+       x1="285.509"
+       y1="90.500999"
+       x2="285.923"
+       y2="96.486"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line216" />
+    <line
+       x1="291.74701"
+       y1="90.162003"
+       x2="291.983"
+       y2="96.157997"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line218" />
+    <line
+       x1="297.82501"
+       y1="90.011002"
+       x2="297.888"
+       y2="96.011002"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line220" />
+    <line
+       x1="303.74799"
+       y1="90.032997"
+       x2="303.64099"
+       y2="96.031998"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line222" />
+    <line
+       x1="309.517"
+       y1="90.216003"
+       x2="308.97299"
+       y2="102.203"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line224" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-87.402,300,300)"
+       id="text226">80</text>
+    <line
+       x1="315.13699"
+       y1="90.545998"
+       x2="314.70499"
+       y2="96.530998"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line228" />
+    <line
+       x1="320.612"
+       y1="91.014"
+       x2="320.02301"
+       y2="96.985001"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line230" />
+    <line
+       x1="325.944"
+       y1="91.609001"
+       x2="325.202"
+       y2="97.563004"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line232" />
+    <line
+       x1="331.13599"
+       y1="92.320999"
+       x2="330.24701"
+       y2="98.254997"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line234" />
+    <line
+       x1="336.194"
+       y1="93.142998"
+       x2="334.12601"
+       y2="104.963"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line236" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-80.075,300,300)"
+       id="text238">90</text>
+    <line
+       x1="341.12"
+       y1="94.065002"
+       x2="339.94501"
+       y2="99.948997"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line240" />
+    <line
+       x1="345.91599"
+       y1="95.081001"
+       x2="344.60501"
+       y2="100.936"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line242" />
+    <line
+       x1="350.58801"
+       y1="96.183998"
+       x2="349.14301"
+       y2="102.008"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line244" />
+    <line
+       x1="355.138"
+       y1="97.367996"
+       x2="353.56299"
+       y2="103.157"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line246" />
+    <line
+       x1="359.569"
+       y1="98.625999"
+       x2="354.46301"
+       y2="115.887"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line248" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-73.521,300,300)"
+       id="text250">100</text>
+    <line
+       x1="363.88501"
+       y1="99.953003"
+       x2="362.05899"
+       y2="105.669"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line252" />
+    <line
+       x1="368.08801"
+       y1="101.344"
+       x2="366.142"
+       y2="107.02"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line254" />
+    <line
+       x1="372.181"
+       y1="102.795"
+       x2="370.11899"
+       y2="108.429"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line256" />
+    <line
+       x1="376.168"
+       y1="104.3"
+       x2="373.992"
+       y2="109.892"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line258" />
+    <line
+       x1="380.052"
+       y1="105.856"
+       x2="375.47699"
+       y2="116.95"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line260" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-67.592,300,300)"
+       id="text262">110</text>
+    <line
+       x1="383.83401"
+       y1="107.46"
+       x2="381.439"
+       y2="112.961"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line264" />
+    <line
+       x1="387.51901"
+       y1="109.106"
+       x2="385.01801"
+       y2="114.56"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line266" />
+    <line
+       x1="391.10699"
+       y1="110.793"
+       x2="388.504"
+       y2="116.199"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line268" />
+    <line
+       x1="394.603"
+       y1="112.516"
+       x2="391.89999"
+       y2="117.873"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line270" />
+    <line
+       x1="398.009"
+       y1="114.274"
+       x2="392.40799"
+       y2="124.886"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line272" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-62.179,300,300)"
+       id="text274">120</text>
+    <line
+       x1="401.32599"
+       y1="116.062"
+       x2="398.431"
+       y2="121.318"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line276" />
+    <line
+       x1="404.55701"
+       y1="117.88"
+       x2="401.57001"
+       y2="123.083"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line278" />
+    <line
+       x1="407.70499"
+       y1="119.723"
+       x2="404.62799"
+       y2="124.874"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line280" />
+    <line
+       x1="410.772"
+       y1="121.591"
+       x2="407.60699"
+       y2="126.689"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line282" />
+    <line
+       x1="413.759"
+       y1="123.481"
+       x2="407.258"
+       y2="133.56799"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line284" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-57.2,300,300)"
+       id="text286">130</text>
+    <line
+       x1="416.66901"
+       y1="125.391"
+       x2="413.336"
+       y2="130.38"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line288" />
+    <line
+       x1="419.504"
+       y1="127.319"
+       x2="416.09"
+       y2="132.25301"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line290" />
+    <line
+       x1="422.26599"
+       y1="129.26401"
+       x2="418.77301"
+       y2="134.142"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line292" />
+    <line
+       x1="424.957"
+       y1="131.22301"
+       x2="421.38699"
+       y2="136.045"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line294" />
+    <line
+       x1="427.57901"
+       y1="133.196"
+       x2="420.28799"
+       y2="142.72701"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line296" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-52.59,300,300)"
+       id="text298">140</text>
+    <line
+       x1="430.13199"
+       y1="135.17999"
+       x2="426.414"
+       y2="139.88901"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line300" />
+    <line
+       x1="432.62"
+       y1="137.175"
+       x2="428.83099"
+       y2="141.827"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line302" />
+    <line
+       x1="435.04401"
+       y1="139.179"
+       x2="431.185"
+       y2="143.774"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line304" />
+    <line
+       x1="437.40399"
+       y1="141.192"
+       x2="433.479"
+       y2="145.729"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line306" />
+    <line
+       x1="439.70401"
+       y1="143.211"
+       x2="429.72501"
+       y2="154.41"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line308" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-48.298,300,300)"
+       id="text310">150</text>
+    <line
+       x1="445.19601"
+       y1="148.283"
+       x2="438.974"
+       y2="154.785"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line312" />
+    <line
+       x1="450.33899"
+       y1="153.377"
+       x2="441.74799"
+       y2="161.756"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line314" />
+    <line
+       x1="455.15302"
+       y1="158.481"
+       x2="448.50299"
+       y2="164.54601"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line316" />
+    <line
+       x1="459.65701"
+       y1="163.58299"
+       x2="450.534"
+       y2="171.37801"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line318" />
+    <line
+       x1="463.871"
+       y1="168.675"
+       x2="456.84799"
+       y2="174.30299"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line320" />
+    <line
+       x1="467.81"
+       y1="173.748"
+       x2="458.22101"
+       y2="180.96201"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line322" />
+    <line
+       x1="471.491"
+       y1="178.795"
+       x2="464.142"
+       y2="183.989"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line324" />
+    <line
+       x1="474.92801"
+       y1="183.81"
+       x2="464.93301"
+       y2="190.45"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line326" />
+    <line
+       x1="478.13501"
+       y1="188.789"
+       x2="470.50101"
+       y2="193.556"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line328" />
+    <line
+       x1="481.125"
+       y1="193.72701"
+       x2="465.60001"
+       y2="202.83701"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line330" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-30.402,300,300)"
+       id="text332">200</text>
+    <line
+       x1="483.90799"
+       y1="198.621"
+       x2="476.02701"
+       y2="202.966"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line334" />
+    <line
+       x1="486.49799"
+       y1="203.467"
+       x2="475.841"
+       y2="208.983"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line336" />
+    <line
+       x1="488.90302"
+       y1="208.26199"
+       x2="480.80701"
+       y2="212.194"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line338" />
+    <line
+       x1="491.133"
+       y1="213.006"
+       x2="480.211"
+       y2="217.97701"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line340" />
+    <line
+       x1="493.19901"
+       y1="217.69501"
+       x2="484.91901"
+       y2="221.222"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line342" />
+    <line
+       x1="495.108"
+       y1="222.328"
+       x2="483.95901"
+       y2="226.76601"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line344" />
+    <line
+       x1="496.86801"
+       y1="226.90401"
+       x2="488.431"
+       y2="230.037"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line346" />
+    <line
+       x1="498.487"
+       y1="231.423"
+       x2="487.14499"
+       y2="235.342"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line348" />
+    <line
+       x1="499.97299"
+       y1="235.884"
+       x2="491.40201"
+       y2="238.632"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line350" />
+    <line
+       x1="501.33099"
+       y1="240.285"
+       x2="486.95001"
+       y2="244.55"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line352" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-16.52,300,300)"
+       id="text354">250</text>
+    <line
+       x1="502.56799"
+       y1="244.627"
+       x2="493.88699"
+       y2="247"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line356" />
+    <line
+       x1="503.69"
+       y1="248.91"
+       x2="492.05099"
+       y2="251.82899"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line358" />
+    <line
+       x1="504.703"
+       y1="253.133"
+       x2="495.92999"
+       y2="255.142"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line360" />
+    <line
+       x1="505.612"
+       y1="257.297"
+       x2="493.86301"
+       y2="259.737"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line362" />
+    <line
+       x1="506.422"
+       y1="261.401"
+       x2="497.57599"
+       y2="263.056"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line364" />
+    <line
+       x1="507.138"
+       y1="265.44699"
+       x2="495.30099"
+       y2="267.42099"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line366" />
+    <line
+       x1="507.76401"
+       y1="269.43399"
+       x2="498.85901"
+       y2="270.74399"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line368" />
+    <line
+       x1="508.30399"
+       y1="273.362"
+       x2="496.401"
+       y2="274.884"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line370" />
+    <line
+       x1="508.76199"
+       y1="277.23199"
+       x2="499.815"
+       y2="278.20801"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line372" />
+    <line
+       x1="509.14301"
+       y1="281.04599"
+       x2="491.216"
+       y2="282.67001"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line374" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-5.179,300,300)"
+       id="text376">300</text>
+    <line
+       x1="509.685"
+       y1="288.50201"
+       x2="497.703"
+       y2="289.159"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line378" />
+    <line
+       x1="509.957"
+       y1="295.73499"
+       x2="497.95901"
+       y2="295.979"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line380" />
+    <line
+       x1="509.98199"
+       y1="302.75101"
+       x2="497.983"
+       y2="302.59399"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line382" />
+    <line
+       x1="509.78299"
+       y1="309.55399"
+       x2="497.79501"
+       y2="309.008"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line384" />
+    <line
+       x1="509.37799"
+       y1="316.151"
+       x2="494.422"
+       y2="314.99701"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line386" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(4.411,300,300)"
+       id="text388">350</text>
+    <line
+       x1="508.78601"
+       y1="322.54599"
+       x2="496.85599"
+       y2="321.258"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line390" />
+    <line
+       x1="508.02301"
+       y1="328.746"
+       x2="496.13599"
+       y2="327.104"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line392" />
+    <line
+       x1="507.104"
+       y1="334.75699"
+       x2="495.26901"
+       y2="332.771"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line394" />
+    <line
+       x1="506.04099"
+       y1="340.58301"
+       x2="494.26801"
+       y2="338.26401"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line396" />
+    <line
+       x1="504.84799"
+       y1="346.23099"
+       x2="487.29001"
+       y2="342.26801"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line398" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(12.718,300,300)"
+       id="text400">400</text>
+    <line
+       x1="503.535"
+       y1="351.70499"
+       x2="491.905"
+       y2="348.75101"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line402" />
+    <line
+       x1="502.11301"
+       y1="357.01199"
+       x2="490.564"
+       y2="353.754"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line404" />
+    <line
+       x1="500.59"
+       y1="362.15701"
+       x2="489.12799"
+       y2="358.60501"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line406" />
+    <line
+       x1="498.97699"
+       y1="367.14401"
+       x2="487.60699"
+       y2="363.30701"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line408" />
+    <line
+       x1="497.27899"
+       y1="371.978"
+       x2="483.18799"
+       y2="366.83701"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line410" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(20.045,300,300)"
+       id="text412">450</text>
+    <line
+       x1="495.50601"
+       y1="376.66501"
+       x2="484.33401"
+       y2="372.284"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line414" />
+    <line
+       x1="493.66199"
+       y1="381.20901"
+       x2="482.59601"
+       y2="376.56799"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line416" />
+    <line
+       x1="491.75601"
+       y1="385.61401"
+       x2="480.798"
+       y2="380.72198"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line418" />
+    <line
+       x1="489.79099"
+       y1="389.88501"
+       x2="478.94601"
+       y2="384.74899"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line420" />
+    <line
+       x1="487.77399"
+       y1="394.026"
+       x2="471.67899"
+       y2="385.96701"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line422" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(26.599,300,300)"
+       id="text424">500</text>
+    <line
+       x1="485.70901"
+       y1="398.04099"
+       x2="475.09698"
+       y2="392.439"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line426" />
+    <line
+       x1="483.60101"
+       y1="401.93399"
+       x2="473.10999"
+       y2="396.10999"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line428" />
+    <line
+       x1="481.45401"
+       y1="405.70901"
+       x2="471.08499"
+       y2="399.66901"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line430" />
+    <line
+       x1="479.271"
+       y1="409.37"
+       x2="469.02701"
+       y2="403.12"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line432" />
+    <line
+       x1="477.05701"
+       y1="412.92001"
+       x2="464.41"
+       y2="404.854"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line434" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(32.528,300,300)"
+       id="text436">550</text>
+    <line
+       x1="474.814"
+       y1="416.362"
+       x2="464.82501"
+       y2="409.71201"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line438" />
+    <line
+       x1="472.54599"
+       y1="419.69901"
+       x2="462.686"
+       y2="412.85901"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line440" />
+    <line
+       x1="470.255"
+       y1="422.936"
+       x2="460.526"
+       y2="415.91101"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line442" />
+    <line
+       x1="467.944"
+       y1="426.07501"
+       x2="458.34698"
+       y2="418.87"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line444" />
+    <line
+       x1="465.616"
+       y1="429.11801"
+       x2="451.42001"
+       y2="418.05099"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line446" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(37.941,300,300)"
+       id="text448">600</text>
+    <line
+       x1="463.272"
+       y1="432.069"
+       x2="453.94199"
+       y2="424.522"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line450" />
+    <line
+       x1="460.91501"
+       y1="434.931"
+       x2="451.72"
+       y2="427.22101"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line452" />
+    <line
+       x1="458.547"
+       y1="437.70599"
+       x2="449.487"
+       y2="429.83701"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line454" />
+    <line
+       x1="456.16901"
+       y1="440.397"
+       x2="447.245"
+       y2="432.37399"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line456" />
+    <line
+       x1="453.784"
+       y1="443.005"
+       x2="442.79901"
+       y2="432.79099"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line458" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(42.92,300,300)"
+       id="text460">650</text>
+    <line
+       x1="441.79199"
+       y1="454.90302"
+       x2="429.63901"
+       y2="441.62601"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line462" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(47.53,300,300)"
+       id="text464">700</text>
+    <line
+       x1="429.802"
+       y1="465.07999"
+       x2="420.53"
+       y2="453.289"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line466" />
+    <line
+       x1="417.92499"
+       y1="473.763"
+       x2="407.81699"
+       y2="458.86899"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line468" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(55.837,300,300)"
+       id="text470">800</text>
+    <line
+       x1="406.241"
+       y1="481.14301"
+       x2="398.65201"
+       y2="468.20499"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line472" />
+    <line
+       x1="394.802"
+       y1="487.384"
+       x2="386.67599"
+       y2="471.32199"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line474" />
+    <text
+       x="468"
+       y="306"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(63.164,300,300)"
+       id="text476">900</text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+     x="306.99121"
+     y="181.54588"
+     id="text3435"><tspan
+       sodipodi:role="line"
+       x="306.99121"
+       y="181.54588"
+       style="text-align:center;text-anchor:middle"
+       id="tspan18739" /></text>
+  <g
+     id="g20020"
+     transform="translate(-32.594077,34.071765)">
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';text-align:center;text-anchor:middle"
+       x="301.30582"
+       y="188.96991"
+       id="text26644"><tspan
+         sodipodi:role="line"
+         id="tspan26642"
+         x="301.30582"
+         y="193.5049"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto sans';-inkscape-font-specification:'Noto sans Bold'">Abstandsbestimmung über</tspan><tspan
+         sodipodi:role="line"
+         x="301.30582"
+         y="210.17152"
+         id="tspan26646"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto sans';-inkscape-font-specification:'Noto sans Bold'">Triangulation mit dem Nivellier</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';text-align:center;text-anchor:middle"
+       x="300.43362"
+       y="404.14023"
+       id="text30290"><tspan
+         sodipodi:role="line"
+         id="tspan30288"
+         x="300.43362"
+         y="408.6752">äußere Scheibe: Winkel in Gon</tspan><tspan
+         sodipodi:role="line"
+         x="300.43362"
+         y="425.34183"
+         id="tspan30292">innere Scheibe: Abstand</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+       x="251.07144"
+       y="168.65726"
+       id="text55866"><tspan
+         sodipodi:role="line"
+         id="tspan55864"
+         x="251.07144"
+         y="168.65726"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto sans';-inkscape-font-specification:'Noto sans Bold'">Rechenscheibe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+       x="170.3784"
+       y="237.25388"
+       id="text61068"><tspan
+         sodipodi:role="line"
+         x="170.3784"
+         y="240.88188"
+         id="tspan61070"
+         style="font-size:10.6667px">Abstand zwischen Standpunkten an der inneren</tspan><tspan
+         sodipodi:role="line"
+         x="170.3784"
+         y="254.21526"
+         style="font-size:10.6667px"
+         id="tspan74338">Scheibe auf den Pfeil der Winkelscheibe einstellen.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+       x="169.10292"
+       y="335.96045"
+       id="text3223"><tspan
+         sodipodi:role="line"
+         id="tspan3221"
+         x="169.10292"
+         y="339.58847">Gemessenen Winkel zwischen erstem Messpunkt und</tspan><tspan
+         sodipodi:role="line"
+         x="169.10292"
+         y="352.92184"
+         id="tspan7397">Ziel auf Winkelscheibe suchen; Distanz entspreicht </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+       x="185.79832"
+       y="367.78253"
+       id="text3223-3"><tspan
+         sodipodi:role="line"
+         id="tspan3221-6"
+         x="185.79832"
+         y="371.41055">dann dem gegenüberliegenden Wert auf der</tspan><tspan
+         sodipodi:role="line"
+         x="185.79832"
+         y="384.74393"
+         id="tspan7397-7">inneren Distanzskala. </tspan></text>
+  </g>
+  <g
+     id="g21210"
+     transform="translate(-25.374064,6.0039306)">
+    <line
+       x1="797.2962"
+       y1="330.60233"
+       x2="821.2962"
+       y2="330.60233"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line2-8" />
+    <line
+       x1="809.2962"
+       y1="318.60233"
+       x2="809.2962"
+       y2="342.60233"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line4-6" />
+    <circle
+       cx="809.2962"
+       cy="330.60233"
+       r="210"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6-8" />
+    <circle
+       cx="809.2962"
+       cy="330.60233"
+       r="270"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle8-8" />
+    <line
+       x1="614.39819"
+       y1="252.40634"
+       x2="606.04517"
+       y2="249.05534"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line10-4" />
+    <text
+       x="-640.20148"
+       y="0.51771051"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-158.139)"
+       id="text12-3">5</text>
+    <line
+       x1="633.69519"
+       y1="215.43134"
+       x2="628.67816"
+       y2="212.14034"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line14-1" />
+    <text
+       x="-624.04102"
+       y="173.40323"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-146.74)"
+       id="text16">6</text>
+    <line
+       x1="655.5022"
+       y1="187.60834"
+       x2="651.10815"
+       y2="183.52234"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line18-4" />
+    <text
+       x="-583.80585"
+       y="314.95279"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-137.084)"
+       id="text20">7</text>
+    <line
+       x1="677.99518"
+       y1="166.71234"
+       x2="674.2442"
+       y2="162.02934"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line22-9" />
+    <text
+       x="-530.01862"
+       y="430.8927"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-128.7)"
+       id="text24-2">8</text>
+    <line
+       x1="700.24323"
+       y1="151.13835"
+       x2="697.1272"
+       y2="146.01035"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line26-0" />
+    <text
+       x="-468.79486"
+       y="525.94006"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-121.285)"
+       id="text28">9</text>
+    <line
+       x1="721.76819"
+       y1="139.71234"
+       x2="716.76617"
+       y2="128.80435"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line30-6" />
+    <text
+       x="-403.83447"
+       y="603.85065"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-114.633)"
+       id="text32">10</text>
+    <line
+       x1="742.33221"
+       y1="131.56534"
+       x2="740.41919"
+       y2="125.87834"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line34-8" />
+    <text
+       x="-337.40927"
+       y="667.62653"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-108.595)"
+       id="text36-9">11</text>
+    <line
+       x1="761.83319"
+       y1="126.03634"
+       x2="760.47717"
+       y2="120.19134"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line38-2" />
+    <text
+       x="-270.96603"
+       y="719.62982"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-103.063)"
+       id="text40">12</text>
+    <line
+       x1="780.24017"
+       y1="122.62234"
+       x2="779.41022"
+       y2="116.67934"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line42" />
+    <text
+       x="-205.3974"
+       y="761.76996"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-97.953)"
+       id="text44">13</text>
+    <line
+       x1="797.5672"
+       y1="120.93034"
+       x2="797.23218"
+       y2="114.93934"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line46-6" />
+    <text
+       x="-141.29054"
+       y="795.56647"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-93.202)"
+       id="text48-6">14</text>
+    <line
+       x1="813.84918"
+       y1="120.65134"
+       x2="814.04419"
+       y2="111.65334"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line50-4" />
+    <text
+       x="-78.982941"
+       y="822.27197"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-88.758)"
+       id="text52">15</text>
+    <line
+       x1="829.1322"
+       y1="121.54134"
+       x2="829.69922"
+       y2="115.56834"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line54" />
+    <line
+       x1="843.47119"
+       y1="123.40134"
+       x2="844.4472"
+       y2="117.48134"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line56-9" />
+    <line
+       x1="856.91821"
+       y1="126.07334"
+       x2="858.27917"
+       y2="120.22934"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line58-5" />
+    <line
+       x1="869.5282"
+       y1="129.42534"
+       x2="871.24921"
+       y2="123.67734"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line60" />
+    <line
+       x1="881.3512"
+       y1="133.35135"
+       x2="885.46918"
+       y2="122.07934"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line62-0" />
+    <text
+       x="201.15256"
+       y="879.60138"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-69.933)"
+       id="text64">20</text>
+    <line
+       x1="892.43719"
+       y1="137.76134"
+       x2="894.81219"
+       y2="132.25134"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line66" />
+    <line
+       x1="902.8302"
+       y1="142.58235"
+       x2="905.5022"
+       y2="137.21034"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line68-4" />
+    <line
+       x1="912.57318"
+       y1="147.75235"
+       x2="915.52319"
+       y2="142.52835"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line70-8" />
+    <line
+       x1="921.70416"
+       y1="153.22034"
+       x2="924.9162"
+       y2="148.15234"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line72" />
+    <line
+       x1="930.26117"
+       y1="158.94135"
+       x2="935.44519"
+       y2="151.58435"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line74-7" />
+    <text
+       x="429.92325"
+       y="857.98138"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-54.829)"
+       id="text76">25</text>
+    <line
+       x1="938.27618"
+       y1="164.87933"
+       x2="941.96118"
+       y2="160.14435"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line78" />
+    <line
+       x1="945.78021"
+       y1="171.00233"
+       x2="949.6792"
+       y2="166.44234"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line80-1" />
+    <line
+       x1="952.80017"
+       y1="177.28334"
+       x2="956.90021"
+       y2="172.90334"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line82-7" />
+    <line
+       x1="959.36218"
+       y1="183.70035"
+       x2="963.65021"
+       y2="179.50334"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line84" />
+    <line
+       x1="965.49017"
+       y1="190.23334"
+       x2="974.4162"
+       y2="182.21234"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line86-2" />
+    <text
+       x="614.96362"
+       y="792.84497"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-41.945)"
+       id="text88">30</text>
+    <line
+       x1="971.2052"
+       y1="196.86635"
+       x2="975.83118"
+       y2="193.04533"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line90" />
+    <line
+       x1="976.52716"
+       y1="203.58334"
+       x2="981.30518"
+       y2="199.95435"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line92-7" />
+    <line
+       x1="981.47418"
+       y1="210.37434"
+       x2="986.39319"
+       y2="206.93935"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line94-2" />
+    <line
+       x1="986.06122"
+       y1="217.22633"
+       x2="991.11218"
+       y2="213.98734"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line96" />
+    <line
+       x1="990.30518"
+       y1="224.13234"
+       x2="998.06219"
+       y2="219.56934"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line98-2" />
+    <text
+       x="763.95679"
+       y="701.27264"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-30.464)"
+       id="text100">35</text>
+    <line
+       x1="994.21716"
+       y1="231.08334"
+       x2="999.50116"
+       y2="228.23933"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line102-6" />
+    <line
+       x1="997.81219"
+       y1="238.07234"
+       x2="1003.1982"
+       y2="235.42834"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line104-1" />
+    <line
+       x1="1001.0992"
+       y1="245.09435"
+       x2="1006.5792"
+       y2="242.65034"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line106-0" />
+    <line
+       x1="1004.0892"
+       y1="252.14334"
+       x2="1009.6542"
+       y2="249.90134"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line108-6" />
+    <line
+       x1="1006.7902"
+       y1="259.21634"
+       x2="1018.0762"
+       y2="255.13734"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line110-1" />
+    <text
+       x="882.71753"
+       y="592.02368"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-19.873)"
+       id="text112">40</text>
+    <line
+       x1="1009.2122"
+       y1="266.30832"
+       x2="1014.9242"
+       y2="264.47134"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line114-5" />
+    <line
+       x1="1011.3602"
+       y1="273.41733"
+       x2="1017.1332"
+       y2="271.78333"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line116-9" />
+    <line
+       x1="1013.2412"
+       y1="280.53934"
+       x2="1019.0682"
+       y2="279.10834"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line118" />
+    <line
+       x1="1014.8612"
+       y1="287.67233"
+       x2="1020.7342"
+       y2="286.44632"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line120-4" />
+    <line
+       x1="1016.2242"
+       y1="294.81433"
+       x2="1025.0922"
+       y2="293.28131"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line122-9" />
+    <text
+       x="975.1181"
+       y="469.68329"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-9.812)"
+       id="text124">45</text>
+    <line
+       x1="1017.3342"
+       y1="301.96432"
+       x2="1023.2782"
+       y2="301.14633"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line126-0" />
+    <line
+       x1="1018.1942"
+       y1="309.11932"
+       x2="1024.1632"
+       y2="308.50534"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line128-9" />
+    <line
+       x1="1018.8072"
+       y1="316.27832"
+       x2="1024.7932"
+       y2="315.86832"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line130" />
+    <line
+       x1="1019.1742"
+       y1="323.43933"
+       x2="1025.1702"
+       y2="323.23532"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line132-1" />
+    <polygon
+       points="534,303 510,300 534,297 "
+       style="fill:#000000;stroke:#000000;stroke-width:0.5"
+       id="polygon134"
+       transform="translate(509.2962,30.602342)" />
+    <text
+       x="1049.2961"
+       y="336.60233"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       id="text136">50</text>
+    <line
+       x1="1019.1742"
+       y1="337.76532"
+       x2="1025.1702"
+       y2="337.96933"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line138-7" />
+    <line
+       x1="1018.8072"
+       y1="344.92633"
+       x2="1024.7932"
+       y2="345.33633"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line140-7" />
+    <line
+       x1="1018.1942"
+       y1="352.08533"
+       x2="1024.1632"
+       y2="352.69931"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line142" />
+    <line
+       x1="1017.3342"
+       y1="359.24033"
+       x2="1023.2782"
+       y2="360.05832"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line144-1" />
+    <line
+       x1="1016.2242"
+       y1="366.39032"
+       x2="1025.0922"
+       y2="367.92334"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line146-1" />
+    <text
+       x="1087.7979"
+       y="193.84944"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(9.812)"
+       id="text148">55</text>
+    <line
+       x1="1014.8612"
+       y1="373.53232"
+       x2="1020.7342"
+       y2="374.75833"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line150-5" />
+    <line
+       x1="1013.2412"
+       y1="380.66531"
+       x2="1019.0682"
+       y2="382.09631"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line152-9" />
+    <line
+       x1="1011.3602"
+       y1="387.78732"
+       x2="1017.1332"
+       y2="389.42133"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line154" />
+    <line
+       x1="1009.2122"
+       y1="394.89633"
+       x2="1014.9242"
+       y2="396.73334"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line156-7" />
+    <line
+       x1="1006.7902"
+       y1="401.98831"
+       x2="1018.0762"
+       y2="406.06732"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line158-7" />
+    <text
+       x="1107.4851"
+       y="41.805202"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(19.873)"
+       id="text160">60</text>
+    <line
+       x1="1004.0892"
+       y1="409.06134"
+       x2="1009.6542"
+       y2="411.30331"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line162-6" />
+    <line
+       x1="1001.0992"
+       y1="416.11032"
+       x2="1006.5792"
+       y2="418.55432"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line164-7" />
+    <line
+       x1="997.81219"
+       y1="423.13232"
+       x2="1003.1982"
+       y2="425.77634"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line166" />
+    <line
+       x1="994.21716"
+       y1="430.12134"
+       x2="999.50116"
+       y2="432.96533"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line168-3" />
+    <line
+       x1="990.30518"
+       y1="437.07233"
+       x2="998.06219"
+       y2="441.63531"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line170-6" />
+    <text
+       x="1099.1855"
+       y="-119.34866"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(30.464)"
+       id="text172">65</text>
+    <line
+       x1="986.06122"
+       y1="443.97833"
+       x2="991.11218"
+       y2="447.21732"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line174-5" />
+    <line
+       x1="981.47418"
+       y1="450.83032"
+       x2="986.39319"
+       y2="454.26532"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line176-6" />
+    <line
+       x1="976.52716"
+       y1="457.62134"
+       x2="981.30518"
+       y2="461.25034"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line178" />
+    <line
+       x1="971.2052"
+       y1="464.33832"
+       x2="975.83118"
+       y2="468.15933"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line180-3" />
+    <line
+       x1="965.49017"
+       y1="470.97131"
+       x2="974.4162"
+       y2="478.99234"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line182-9" />
+    <text
+       x="1056.9241"
+       y="-289.04962"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(41.945)"
+       id="text184">70</text>
+    <line
+       x1="959.36218"
+       y1="477.50433"
+       x2="963.65021"
+       y2="481.70132"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line186-4" />
+    <line
+       x1="952.80017"
+       y1="483.92133"
+       x2="956.90021"
+       y2="488.30133"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line188-8" />
+    <line
+       x1="945.78021"
+       y1="490.20233"
+       x2="949.6792"
+       y2="494.76233"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line190" />
+    <line
+       x1="938.27618"
+       y1="496.32532"
+       x2="941.96118"
+       y2="501.06033"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line192-1" />
+    <line
+       x1="930.26117"
+       y1="502.26334"
+       x2="935.44519"
+       y2="509.62033"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line194-2" />
+    <text
+       x="970.41614"
+       y="-465.1152"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(54.829)"
+       id="text196">75</text>
+    <line
+       x1="921.70416"
+       y1="507.98431"
+       x2="924.9162"
+       y2="513.05237"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line198-9" />
+    <line
+       x1="912.57318"
+       y1="513.45233"
+       x2="915.52319"
+       y2="518.67633"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line200-3" />
+    <line
+       x1="902.8302"
+       y1="518.62231"
+       x2="905.5022"
+       y2="523.99432"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line202" />
+    <line
+       x1="892.43719"
+       y1="523.44336"
+       x2="894.81219"
+       y2="528.95337"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line204-9" />
+    <line
+       x1="881.3512"
+       y1="527.85333"
+       x2="885.46918"
+       y2="539.12537"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line206-0" />
+    <text
+       x="822.21686"
+       y="-640.72961"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(69.933)"
+       id="text208">80</text>
+    <line
+       x1="869.5282"
+       y1="531.77936"
+       x2="871.24921"
+       y2="537.52734"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line210-8" />
+    <line
+       x1="856.91821"
+       y1="535.13135"
+       x2="858.27917"
+       y2="540.97534"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line212-8" />
+    <line
+       x1="843.47119"
+       y1="537.80334"
+       x2="844.4472"
+       y2="543.72333"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line214" />
+    <line
+       x1="829.1322"
+       y1="539.66333"
+       x2="829.69922"
+       y2="545.63635"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line216-5" />
+    <line
+       x1="813.84918"
+       y1="540.55334"
+       x2="814.04419"
+       y2="549.55133"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line218-0" />
+    <text
+       x="582.06641"
+       y="-795.94019"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(88.758)"
+       id="text220">85</text>
+    <line
+       x1="797.5672"
+       y1="540.27435"
+       x2="797.23218"
+       y2="546.26538"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line222-9" />
+    <text
+       x="518.88184"
+       y="-820.49902"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(93.202)"
+       id="text224">86</text>
+    <line
+       x1="780.24017"
+       y1="538.58234"
+       x2="779.41022"
+       y2="544.52533"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line226" />
+    <text
+       x="449.44778"
+       y="-841.2547"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(97.953)"
+       id="text228">87</text>
+    <line
+       x1="761.83319"
+       y1="535.16833"
+       x2="760.47717"
+       y2="541.01337"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line230-6" />
+    <text
+       x="373.12808"
+       y="-857.07684"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(103.063)"
+       id="text232">88</text>
+    <line
+       x1="742.33221"
+       y1="529.63934"
+       x2="740.41919"
+       y2="535.32635"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line234-3" />
+    <text
+       x="289.27805"
+       y="-866.46924"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(108.595)"
+       id="text236">89</text>
+    <line
+       x1="721.76819"
+       y1="521.49237"
+       x2="716.76617"
+       y2="532.40033"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line238" />
+    <text
+       x="197.19804"
+       y="-867.44373"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(114.633)"
+       id="text240">90</text>
+    <line
+       x1="700.24323"
+       y1="510.06631"
+       x2="697.1272"
+       y2="515.19434"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line242-8" />
+    <text
+       x="96.267258"
+       y="-857.3006"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(121.285)"
+       id="text244">91</text>
+    <line
+       x1="677.99518"
+       y1="494.49234"
+       x2="674.2442"
+       y2="499.17532"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line246-5" />
+    <text
+       x="-13.994382"
+       y="-832.30603"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(128.7)"
+       id="text248">92</text>
+    <line
+       x1="655.5022"
+       y1="473.59631"
+       x2="651.10815"
+       y2="477.68231"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line250" />
+    <text
+       x="-133.57477"
+       y="-787.18787"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(137.084)"
+       id="text252">93</text>
+    <line
+       x1="633.69519"
+       y1="445.77332"
+       x2="628.67816"
+       y2="449.06433"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line254-6" />
+    <text
+       x="-261.41046"
+       y="-714.29626"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(146.74)"
+       id="text256">94</text>
+    <line
+       x1="614.39819"
+       y1="408.79834"
+       x2="606.04517"
+       y2="412.14932"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line258-1" />
+    <text
+       x="-393.99786"
+       y="-602.17511"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(158.139)"
+       id="text260">95</text>
+    <line
+       x1="601.30621"
+       y1="359.58832"
+       x2="595.3642"
+       y2="360.41733"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line262" />
+    <text
+       x="-521.91559"
+       y="-433.14673"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(172.066)"
+       id="text264">96</text>
+    <line
+       x1="602.48517"
+       y1="294.14331"
+       x2="596.57617"
+       y2="293.10132"
+       style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="line266-1" />
+    <text
+       x="-620.4032"
+       y="-179.07675"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+       transform="rotate(-170.002)"
+       id="text268">97</text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+     x="667.60999"
+     y="220.2737"
+     id="text24140"><tspan
+       sodipodi:role="line"
+       id="tspan24138"
+       x="667.60999"
+       y="224.80869">This Artwork is free to be distributed</tspan><tspan
+       sodipodi:role="line"
+       x="667.60999"
+       y="241.47531"
+       id="tspan30384">under Creative Commons Zero</tspan></text>
+  <metadata
+     id="metadata27196">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+     x="613.29602"
+     y="273.24112"
+     id="text32566"><tspan
+       sodipodi:role="line"
+       id="tspan32564"
+       x="613.29602"
+       y="273.24112">https://creativecommons.org/publicdomain/zero/1.0/</tspan></text>
+</svg>
