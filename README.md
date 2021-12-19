@@ -65,5 +65,31 @@ Distanzskala gegenüberliegt. Dieser liegt bei 62.
 Die Flussbreite, bzw. der Abstand zwischen unserem ersten Messpunkt und dem Baum
 beträgt also 62m.
 
+## Konstruktion
 
+Die Konstruktion erfolgte mit LibreOffice Calc. 
+
+Hasst mich dafür.
+
+Ja, ich weiß, es gäbe irgendwo Bibliotheken für schöne andere Sprachen, aber das war 
+ein one-shot und ich hab selber noch gelernt. Ich wusste, dass die Skalenteilung ein
+Problem sein würde und eine Tabellenkalkulation zeigt alle zwischenschritte an (was das
+Debugging ultra einfach macht) und ich war ja selbt am Lernen, wie das geht.
+
+Dazu wusste ich, dass ich sowieso noch in Inkscape nachlayouten wollte, daher brauchte
+ich nur die Skalen. Die Konstruktion per se lässt sich mittels der Formeln nachvollziehen.
+
+Der "Output" ist eine Spalte an Zellen, die Zeile für Zeile den SVG-Code für die Skalen
+und Beschriftungen ausgeben. Also, je eine Spalte pro Blatt, je ein Blatt pro Skala.
+Die Spalteninhalte wurden durch Verkettung erzeugt und anschließend manuell umkopiert.
+
+Die Skalenteilung, Beschriftungslängen, Schritte wurden alles über abschnittsweise nach
+unten (oder oben) kopierte Formeln erzeugt, also nichts Parametrierbares. Aber schnell.
+
+Vielleicht hilft die ODS ja irgendwem, um eine eigene Interessante Skala zu bauen.
+
+**Ein Kleiner Hinweis hier bzgl. Formatierungen:** Zumindest in der LibreOffice-Version, 
+die ich verwendet habe, hat die Formel TEXT() ein Umstellen der Lokalisierung in der
+Zellenformatierung auf US benötigt, weil es ansonsten den Dezimalpunkt nicht geschluckt
+hätte. 
 
