@@ -15,17 +15,105 @@
    xmlns:cc="http://creativecommons.org/ns#">
   <defs
      id="defs482">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path266362" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path266220" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker266495"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path266493" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path266235" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path266217" />
+    </marker>
+    <rect
+       x="598.73967"
+       y="715.00508"
+       width="504.20178"
+       height="84.060245"
+       id="rect173774" />
+    <rect
+       x="55.097518"
+       y="584.35556"
+       width="514.7366"
+       height="57.512984"
+       id="rect130674" />
+    <rect
+       x="51.375609"
+       y="647.85053"
+       width="525.51248"
+       height="150.60371"
+       id="rect66079" />
     <rect
        x="617.54322"
        y="607.0323"
-       width="473.1093"
-       height="137.04641"
+       width="370.57265"
+       height="122.23063"
        id="rect311483" />
     <rect
        x="50.602373"
        y="523.99668"
-       width="532.92954"
-       height="245.89076"
+       width="528.52388"
+       height="70.060892"
        id="rect248744" />
   </defs>
   <sodipodi:namedview
@@ -38,8 +126,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="0.78999999"
-     inkscape:cx="870.25318"
-     inkscape:cy="408.22785"
+     inkscape:cx="794.30381"
+     inkscape:cy="496.83545"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
      inkscape:window-x="1366"
@@ -47,7 +135,8 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg478"
      units="mm"
-     inkscape:document-units="mm" />
+     inkscape:document-units="mm"
+     inkscape:lockguides="true" />
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
@@ -78,1030 +167,1180 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g128213"
-     transform="translate(17.986444,20.674118)">
-    <g
-       id="g307041"
-       transform="translate(-5.3389639,-29.402871)">
-      <line
-         x1="779.27094"
-         y1="328.41034"
-         x2="803.27094"
-         y2="328.41034"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line2-8" />
-      <line
-         x1="791.27094"
-         y1="316.41034"
-         x2="791.27094"
-         y2="340.41034"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line4-6" />
-      <circle
-         cx="791.27094"
-         cy="328.41034"
-         r="210"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="circle6-8" />
-      <circle
-         cx="791.27094"
-         cy="328.41034"
-         r="270"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="circle8-8" />
-      <line
-         x1="596.37292"
-         y1="250.21436"
-         x2="588.0199"
-         y2="246.86336"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line10-4" />
-      <text
-         x="-622.65619"
-         y="-4.1597481"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-158.139)"
-         id="text12-3">5</text>
-      <line
-         x1="615.66992"
-         y1="213.23935"
-         x2="610.65289"
-         y2="209.94835"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line14-1" />
-      <text
-         x="-607.7663"
-         y="165.35039"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-146.74)"
-         id="text16">6</text>
-      <line
-         x1="637.47693"
-         y1="185.41635"
-         x2="633.08289"
-         y2="181.33035"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line18-4" />
-      <text
-         x="-569.11243"
-         y="304.28424"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-137.084)"
-         id="text20">7</text>
-      <line
-         x1="659.96991"
-         y1="164.52036"
-         x2="656.21893"
-         y2="159.83736"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line22-9" />
-      <text
-         x="-517.03772"
-         y="418.19574"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-128.7)"
-         id="text24-2">8</text>
-      <line
-         x1="682.21796"
-         y1="148.94637"
-         x2="679.10193"
-         y2="143.81836"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line26-0" />
-      <text
-         x="-457.56116"
-         y="511.67404"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-121.285)"
-         id="text28">9</text>
-      <line
-         x1="703.74292"
-         y1="137.52036"
-         x2="698.74091"
-         y2="126.61236"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line30-6" />
-      <text
-         x="-394.32895"
-         y="588.37939"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-114.633)"
-         id="text32">10</text>
-      <line
-         x1="724.30695"
-         y1="129.37335"
-         x2="722.39392"
-         y2="123.68635"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line34-8" />
-      <text
-         x="-329.58386"
-         y="651.24121"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-108.595)"
-         id="text36-9">11</text>
-      <line
-         x1="743.80792"
-         y1="123.84435"
-         x2="742.4519"
-         y2="117.99934"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line38-2" />
-      <text
-         x="-264.75665"
-         y="702.56647"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-103.063)"
-         id="text40">12</text>
-      <line
-         x1="762.2149"
-         y1="120.43034"
-         x2="761.38495"
-         y2="114.48734"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line42" />
-      <text
-         x="-200.7325"
-         y="744.22131"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-97.953)"
-         id="text44">13</text>
-      <line
-         x1="779.54193"
-         y1="118.73835"
-         x2="779.20691"
-         y2="112.74734"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line46-6" />
-      <text
-         x="-138.09515"
-         y="777.69177"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-93.202)"
-         id="text48-6">14</text>
-      <line
-         x1="795.82391"
-         y1="118.45934"
-         x2="796.01892"
-         y2="109.46135"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line50-4" />
-      <text
-         x="-77.182167"
-         y="804.20343"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-88.758)"
-         id="text52">15</text>
-      <line
-         x1="811.10693"
-         y1="119.34935"
-         x2="811.67395"
-         y2="113.37634"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line54" />
-      <line
-         x1="825.44592"
-         y1="121.20934"
-         x2="826.42194"
-         y2="115.28934"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line56-9" />
-      <line
-         x1="838.89294"
-         y1="123.88135"
-         x2="840.25391"
-         y2="118.03735"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line58-5" />
-      <line
-         x1="851.50293"
-         y1="127.23335"
-         x2="853.22394"
-         y2="121.48534"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line60" />
-      <line
-         x1="863.32593"
-         y1="131.15936"
-         x2="867.44391"
-         y2="119.88734"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line62-0" />
-      <text
-         x="197.02667"
-         y="861.91827"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-69.933)"
-         id="text64">20</text>
-      <line
-         x1="874.41193"
-         y1="135.56935"
-         x2="876.78693"
-         y2="130.05936"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line66" />
-      <line
-         x1="884.80493"
-         y1="140.39037"
-         x2="887.47693"
-         y2="135.01836"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line68-4" />
-      <line
-         x1="894.54791"
-         y1="145.56036"
-         x2="897.49792"
-         y2="140.33636"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line70-8" />
-      <line
-         x1="903.67889"
-         y1="151.02835"
-         x2="906.89093"
-         y2="145.96036"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line72" />
-      <line
-         x1="912.2359"
-         y1="156.74936"
-         x2="917.41992"
-         y2="149.39236"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line74-7" />
-      <text
-         x="421.33215"
-         y="841.98425"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-54.829)"
-         id="text76">25</text>
-      <line
-         x1="920.25092"
-         y1="162.68735"
-         x2="923.93591"
-         y2="157.95236"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line78" />
-      <line
-         x1="927.75494"
-         y1="168.81035"
-         x2="931.65393"
-         y2="164.25035"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line80-1" />
-      <line
-         x1="934.7749"
-         y1="175.09135"
-         x2="938.87494"
-         y2="170.71135"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line82-7" />
-      <line
-         x1="941.33691"
-         y1="181.50836"
-         x2="945.62494"
-         y2="177.31136"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line84" />
-      <line
-         x1="947.4649"
-         y1="188.04135"
-         x2="956.39093"
-         y2="180.02036"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line86-2" />
-      <text
-         x="603.02185"
-         y="779.1662"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-41.945)"
-         id="text88">30</text>
-      <line
-         x1="953.17993"
-         y1="194.67436"
-         x2="957.80591"
-         y2="190.85335"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line90" />
-      <line
-         x1="958.50189"
-         y1="201.39136"
-         x2="963.27991"
-         y2="197.76236"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line92-7" />
-      <line
-         x1="963.44891"
-         y1="208.18236"
-         x2="968.36792"
-         y2="204.74736"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line94-2" />
-      <line
-         x1="968.03595"
-         y1="215.03435"
-         x2="973.08691"
-         y2="211.79535"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line96" />
-      <line
-         x1="972.27991"
-         y1="221.94035"
-         x2="980.03693"
-         y2="217.37735"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line98-2" />
-      <text
-         x="749.53125"
-         y="690.24451"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-30.464)"
-         id="text100">35</text>
-      <line
-         x1="976.19189"
-         y1="228.89136"
-         x2="981.47589"
-         y2="226.04735"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line102-6" />
-      <line
-         x1="979.78693"
-         y1="235.88036"
-         x2="985.17291"
-         y2="233.23636"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line104-1" />
-      <line
-         x1="983.07391"
-         y1="242.90236"
-         x2="988.55396"
-         y2="240.45836"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line106-0" />
-      <line
-         x1="986.0639"
-         y1="249.95135"
-         x2="991.62891"
-         y2="247.70935"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line108-6" />
-      <line
-         x1="988.76495"
-         y1="257.02435"
-         x2="1000.0509"
-         y2="252.94536"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line110-1" />
-      <text
-         x="866.5108"
-         y="583.83478"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-19.873)"
-         id="text112">40</text>
-      <line
-         x1="991.18695"
-         y1="264.11633"
-         x2="996.89893"
-         y2="262.27936"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line114-5" />
-      <line
-         x1="993.33496"
-         y1="271.22534"
-         x2="999.10791"
-         y2="269.59134"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line116-9" />
-      <line
-         x1="995.21594"
-         y1="278.34735"
-         x2="1001.0429"
-         y2="276.91635"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line118" />
-      <line
-         x1="996.83594"
-         y1="285.48035"
-         x2="1002.7089"
-         y2="284.25433"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line120-4" />
-      <line
-         x1="998.19891"
-         y1="292.62234"
-         x2="1007.0669"
-         y2="291.08932"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line122-9" />
-      <text
-         x="957.73004"
-         y="464.45157"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-9.812)"
-         id="text124">45</text>
-      <line
-         x1="999.30896"
-         y1="299.77234"
-         x2="1005.2529"
-         y2="298.95435"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line126-0" />
-      <line
-         x1="1000.1689"
-         y1="306.92734"
-         x2="1006.1379"
-         y2="306.31335"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line128-9" />
-      <line
-         x1="1000.7819"
-         y1="314.08633"
-         x2="1006.7679"
-         y2="313.67633"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line130" />
-      <line
-         x1="1001.1489"
-         y1="321.24734"
-         x2="1007.1449"
-         y2="321.04333"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line132-1" />
-      <polygon
-         points="510,300 534,297 534,303 "
-         style="fill:#000000;stroke:#000000;stroke-width:0.5"
-         id="polygon134"
-         transform="translate(491.27092,28.410352)" />
-      <text
-         x="1031.2709"
-         y="334.41034"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         id="text136">50</text>
-      <line
-         x1="1001.1489"
-         y1="335.57333"
-         x2="1007.1449"
-         y2="335.77734"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line138-7" />
-      <line
-         x1="1000.7819"
-         y1="342.73434"
-         x2="1006.7679"
-         y2="343.14435"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line140-7" />
-      <line
-         x1="1000.1689"
-         y1="349.89334"
-         x2="1006.1379"
-         y2="350.50732"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line142" />
-      <line
-         x1="999.30896"
-         y1="357.04834"
-         x2="1005.2529"
-         y2="357.86633"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line144-1" />
-      <line
-         x1="998.19891"
-         y1="364.19833"
-         x2="1007.0669"
-         y2="365.73135"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line146-1" />
-      <text
-         x="1069.6627"
-         y="194.76131"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(9.812)"
-         id="text148">55</text>
-      <line
-         x1="996.83594"
-         y1="371.34033"
-         x2="1002.7089"
-         y2="372.56635"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line150-5" />
-      <line
-         x1="995.21594"
-         y1="378.47333"
-         x2="1001.0429"
-         y2="379.90433"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line152-9" />
-      <line
-         x1="993.33496"
-         y1="385.59534"
-         x2="999.10791"
-         y2="387.22934"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line154" />
-      <line
-         x1="991.18695"
-         y1="392.70435"
-         x2="996.89893"
-         y2="394.54135"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line156-7" />
-      <line
-         x1="988.76495"
-         y1="399.79633"
-         x2="1000.0509"
-         y2="403.87534"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line158-7" />
-      <text
-         x="1089.7881"
-         y="45.871197"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(19.873)"
-         id="text160">60</text>
-      <line
-         x1="986.0639"
-         y1="406.86935"
-         x2="991.62891"
-         y2="409.11133"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line162-6" />
-      <line
-         x1="983.07391"
-         y1="413.91833"
-         x2="988.55396"
-         y2="416.36234"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line164-7" />
-      <line
-         x1="979.78693"
-         y1="420.94034"
-         x2="985.17291"
-         y2="423.58435"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line166" />
-      <line
-         x1="976.19189"
-         y1="427.92935"
-         x2="981.47589"
-         y2="430.77335"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line168-3" />
-      <line
-         x1="972.27991"
-         y1="434.88034"
-         x2="980.03693"
-         y2="439.44333"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line170-6" />
-      <text
-         x="1082.5374"
-         y="-112.09929"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(30.464)"
-         id="text172">65</text>
-      <line
-         x1="968.03595"
-         y1="441.78635"
-         x2="973.08691"
-         y2="445.02533"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line174-5" />
-      <line
-         x1="963.44891"
-         y1="448.63834"
-         x2="968.36792"
-         y2="452.07333"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line176-6" />
-      <line
-         x1="958.50189"
-         y1="455.42935"
-         x2="963.27991"
-         y2="459.05835"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line178" />
-      <line
-         x1="953.17993"
-         y1="462.14633"
-         x2="957.80591"
-         y2="465.96735"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line180-3" />
-      <line
-         x1="947.4649"
-         y1="468.77933"
-         x2="956.39093"
-         y2="476.80035"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line182-9" />
-      <text
-         x="1042.052"
-         y="-278.63159"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(41.945)"
-         id="text184">70</text>
-      <line
-         x1="941.33691"
-         y1="475.31235"
-         x2="945.62494"
-         y2="479.50934"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line186-4" />
-      <line
-         x1="934.7749"
-         y1="481.72934"
-         x2="938.87494"
-         y2="486.10934"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line188-8" />
-      <line
-         x1="927.75494"
-         y1="488.01035"
-         x2="931.65393"
-         y2="492.57034"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line190" />
-      <line
-         x1="920.25092"
-         y1="494.13333"
-         x2="923.93591"
-         y2="498.86835"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line192-1" />
-      <line
-         x1="912.2359"
-         y1="500.07135"
-         x2="917.41992"
-         y2="507.42834"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line194-2" />
-      <text
-         x="958.24146"
-         y="-451.64331"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(54.829)"
-         id="text196">75</text>
-      <line
-         x1="903.67889"
-         y1="505.79233"
-         x2="906.89093"
-         y2="510.86038"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line198-9" />
-      <line
-         x1="894.54791"
-         y1="511.26035"
-         x2="897.49792"
-         y2="516.48431"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line200-3" />
-      <line
-         x1="884.80493"
-         y1="516.4303"
-         x2="887.47693"
-         y2="521.80231"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line202" />
-      <line
-         x1="874.41193"
-         y1="521.25134"
-         x2="876.78693"
-         y2="526.76135"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line204-9" />
-      <line
-         x1="863.32593"
-         y1="525.66132"
-         x2="867.44391"
-         y2="536.93335"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line206-0" />
-      <text
-         x="813.97314"
-         y="-624.55072"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(69.933)"
-         id="text208">80</text>
-      <line
-         x1="851.50293"
-         y1="529.58734"
-         x2="853.22394"
-         y2="535.33533"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line210-8" />
-      <line
-         x1="838.89294"
-         y1="532.93933"
-         x2="840.25391"
-         y2="538.78333"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line212-8" />
-      <line
-         x1="825.44592"
-         y1="535.61133"
-         x2="826.42194"
-         y2="541.53131"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line214" />
-      <line
-         x1="811.10693"
-         y1="537.47131"
-         x2="811.67395"
-         y2="543.44434"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line216-5" />
-      <line
-         x1="795.82391"
-         y1="538.36133"
-         x2="796.01892"
-         y2="547.35931"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line218-0" />
-      <text
-         x="579.48425"
-         y="-777.96667"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(88.758)"
-         id="text220">85</text>
-      <line
-         x1="779.54193"
-         y1="538.08234"
-         x2="779.20691"
-         y2="544.07336"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line222-9" />
-      <text
-         x="517.70007"
-         y="-802.37946"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(93.202)"
-         id="text224">86</text>
-      <line
-         x1="762.2149"
-         y1="536.39032"
-         x2="761.38495"
-         y2="542.33331"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line226" />
-      <text
-         x="449.77087"
-         y="-823.09949"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(97.953)"
-         id="text228">87</text>
-      <line
-         x1="743.80792"
-         y1="532.97632"
-         x2="742.4519"
-         y2="538.82135"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line230-6" />
-      <text
-         x="375.06693"
-         y="-839.02258"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(103.063)"
-         id="text232">88</text>
-      <line
-         x1="724.30695"
-         y1="527.44733"
-         x2="722.39392"
-         y2="533.13434"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line234-3" />
-      <text
-         x="292.94833"
-         y="-848.68597"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(108.595)"
-         id="text236">89</text>
-      <line
-         x1="703.74292"
-         y1="519.30035"
-         x2="698.74091"
-         y2="530.20831"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line238" />
-      <text
-         x="202.71855"
-         y="-850.1452"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(114.633)"
-         id="text240">90</text>
-      <line
-         x1="682.21796"
-         y1="507.87433"
-         x2="679.10193"
-         y2="513.00232"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line242-8" />
-      <text
-         x="103.75444"
-         y="-840.758"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(121.285)"
-         id="text244">91</text>
-      <line
-         x1="659.96991"
-         y1="492.30035"
-         x2="656.21893"
-         y2="496.98334"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line246-5" />
-      <text
-         x="-4.4349055"
-         y="-816.86804"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(128.7)"
-         id="text248">92</text>
-      <line
-         x1="637.47693"
-         y1="471.40433"
-         x2="633.08289"
-         y2="475.49033"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line250" />
-      <text
-         x="-121.86649"
-         y="-773.30872"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(137.084)"
-         id="text252">93</text>
-      <line
-         x1="615.66992"
-         y1="443.58133"
-         x2="610.65289"
-         y2="446.87234"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line254-6" />
-      <text
-         x="-247.54007"
-         y="-702.57758"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(146.74)"
-         id="text256">94</text>
-      <line
-         x1="596.37292"
-         y1="406.60635"
-         x2="588.0199"
-         y2="409.95734"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line258-1" />
-      <text
-         x="-378.08499"
-         y="-593.42889"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(158.139)"
-         id="text260">95</text>
-      <line
-         x1="583.28094"
-         y1="357.39633"
-         x2="577.33893"
-         y2="358.22534"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line262" />
-      <text
-         x="-504.36542"
-         y="-428.48764"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(172.066)"
-         id="text264">96</text>
-      <line
-         x1="584.4599"
-         y1="291.95132"
-         x2="578.5509"
-         y2="290.90933"
-         style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
-         id="line266-1" />
-      <text
-         x="-602.27112"
-         y="-180.04749"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         transform="rotate(-170.002)"
-         id="text268">97</text>
-      <text
-         xml:space="preserve"
-         style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-         x="674.31317"
-         y="202.21536"
-         id="text24140"><tspan
-           sodipodi:role="line"
-           id="tspan24138"
-           x="674.31317"
-           y="206.75035">This Artwork is free to be distributed</tspan><tspan
-           sodipodi:role="line"
-           x="674.31317"
-           y="223.41698"
-           id="tspan30384">under Creative Commons Zero</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-         x="621.30304"
-         y="242.37375"
-         id="text32566"><tspan
-           sodipodi:role="line"
-           id="tspan32564"
-           x="621.30304"
-           y="242.37375">https://creativecommons.org/publicdomain/zero/1.0/</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-         x="618.00861"
-         y="405.21606"
-         id="text10754"><tspan
-           sodipodi:role="line"
-           id="tspan10752"
-           x="618.00861"
-           y="405.21606"
-           style="font-size:10.6667px">https://github.com/prandma/Rechenscheibe_Distanzmessung_Nivellier</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';stroke:none"
-         id="text89814"><textPath
-           xlink:href="#circle8-8-2"
-           id="textPath92405"><tspan
-             id="tspan89812"
-             style="stroke:none">Winkel [gon]                           Winkel [gon]                             Winkel [gon]                              Winkel [gon]                              Winkel [gon]                              Winkel [gon]                              Winkel [gon]                              Winkel [gon]                              Winkel [gon]                          </tspan></textPath></text>
-      <ellipse
-         cx="791.13617"
-         cy="328.40881"
-         style="fill:none;stroke:none;stroke-width:0.724016;stroke-miterlimit:4;stroke-dasharray:none"
-         id="circle8-8-2"
-         rx="258.54111"
-         ry="258.67737" />
-    </g>
-  </g>
   <text
      xml:space="preserve"
      id="text248742"
      style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';white-space:pre;shape-inside:url(#rect248744)"
-     transform="translate(-1.4289245,-23.354525)"><tspan
+     transform="translate(-10.432739,-35.146019)"><tspan
        x="50.601562"
        y="533.70146"
-       id="tspan17851">Diese Rechenscheibe für die Bestimmung von Abständen mittels Triangulation mit dem Nivellier ist </tspan><tspan
+       id="tspan337612"><tspan
+   style="font-weight:bold;-inkscape-font-specification:'Noto sans Bold'"
+   id="tspan337610">Zweck:</tspan>
+</tspan><tspan
        x="50.601562"
        y="547.03483"
-       id="tspan17853">gedacht für die Ausbildung im Wasserdienst des Technischen Hilfswerks. 
-</tspan><tspan
+       id="tspan337614">Diese Rechenscheibe für die Bestimmung von Abständen mittels Triangulation mit dem Nivellier ist </tspan><tspan
        x="50.601562"
        y="560.36821"
-       id="tspan17855">Mit dem Nivellier wird Peilung an SP1 auf ein günstiges Ziel, z.B. einen Baum an einem zu vermessenden </tspan><tspan
+       id="tspan337616">entstanden für für die Ausbildung im Wasserdienst des Technischen Hilfswerks. Oft ist kein </tspan><tspan
        x="50.601562"
        y="573.70158"
-       id="tspan17857">Flussufer aufgenommen. Anschließend dreht man das Nivellier um 100 gon, sodass man Peilung </tspan><tspan
+       id="tspan337618">Taschenrechner zur Hand, und falls doch, kann nicht davon ausgegangen werden, dass jeder Helfer über </tspan><tspan
        x="50.601562"
        y="587.03496"
-       id="tspan17859">rechtwinklig zur Peilachse auf das Ziel hat. Auf ein hoffentlich hinreichend freies Feld hat bugsiert man </tspan><tspan
-       x="50.601562"
-       y="600.36833"
-       id="tspan17861">nun einen Helfer mit Peilstange so, dass er genau in der Flucht steht, hier ist SP2. Der Abstand zwischen </tspan><tspan
-       x="50.601562"
-       y="613.7017"
-       id="tspan17863">SP1 und SP2 wird (z.B. mittels Messlatte oder Maßband) bestimmt.
-</tspan><tspan
-       x="50.601562"
-       y="627.03508"
-       id="tspan17865">Tipp: 1 Bindeleine sollte ziemlich exakt 10m lang sein. 
-</tspan><tspan
-       x="50.601562"
-       y="640.36845"
-       id="tspan17867">Der Abstand zwischen SP1 und SP2 wird durch Drehen der inneren Entfernungsscheibe an dem Pfeil bei </tspan><tspan
-       x="50.601562"
-       y="653.70183"
-       id="tspan17869">50gon auf der äußeren Scheibe eingestellt.
-</tspan><tspan
-       x="50.601562"
-       y="667.0352"
-       id="tspan17871">Man baut das Nivellier nun an SP2 auf und peilt auf SP1 zurück. Die Winkelskala am Nivellier kann nun </tspan><tspan
-       x="50.601562"
-       y="680.36857"
-       id="tspan17873">genullt werden, um den Winkel später einfach ablesen zu können. Dann peilt man dieselbe Stelle auf dem </tspan><tspan
-       x="50.601562"
-       y="693.70195"
-       id="tspan17875">Ziel an, wie zuvor von SP1. Der Winkel sollte nun auf dem Nivellier ablesbar sein.
-</tspan><tspan
-       x="50.601562"
-       y="707.03532"
-       id="tspan17877">Auf der äußeren Winkelskala sucht man nun den Winkel, den das Nivellier bestimmt hat. Den Abstand von </tspan><tspan
-       x="50.601562"
-       y="720.3687"
-       id="tspan17879">Ziel und SP1 (z.B. die Flussbreite) kann man nun von der gegenüberliegenden Skala ablesen.
-</tspan><tspan
-       x="50.601562"
-       y="733.70207"
-       id="tspan17881">Beispiel: SP1 und SP2 sind 20m entfernt. Wir stellen am Pfeil 20m auf der inneren Skala ein. von SP2 aus </tspan><tspan
-       x="50.601562"
-       y="747.03544"
-       id="tspan17883">peilen wir 80gon auf unser Ziel. Wir suchen die Zahl &quot;80&quot; auf der äußeren Skala und lesen ihr gegenüber </tspan><tspan
-       x="50.601562"
-       y="760.36882"
-       id="tspan17885">auf der inneren Skala &quot;62&quot; ab. Die Entfernung zwischen SP1 und Ziel beträgt also 62m.</tspan></text>
+       id="tspan337620">das notwendige trignonmetrische Wissen verfügt.</tspan></text>
   <g
      id="g288898"
-     transform="translate(-12.043918,-16.60625)">
+     transform="translate(-12.043918,-16.60625)" />
+  <text
+     xml:space="preserve"
+     style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+     x="56.316986"
+     y="653.64557"
+     id="text61723"><tspan
+       sodipodi:role="line"
+       id="tspan61721"></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text66077"
+     style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';white-space:pre;shape-inside:url(#rect66079)"
+     transform="translate(-10.984087,-85.496773)"><tspan
+       x="51.375"
+       y="657.55498"
+       id="tspan337624"><tspan
+   style="font-weight:bold;-inkscape-font-specification:'Noto sans Bold'"
+   id="tspan337622">Verwendung: </tspan>(Abb. s. Entferunugsscheibe)
+</tspan><tspan
+       x="51.375"
+       y="670.88835"
+       id="tspan337626">An Standpunkt 1 (SP1) wird mit dem Nivellier ein entferntes Ziel angepeilt. Die Nivellierskala wird genullt </tspan><tspan
+       x="51.375"
+       y="684.22172"
+       id="tspan337628">und das Nivellier anschließend um 100gon (also rechtwinklig!) gedreht. Danach wird ein sinnvoller </tspan><tspan
+       x="51.375"
+       y="697.5551"
+       id="tspan337630">zweiter Standpunkt (SP2) gesucht, ein in der neuen Peilrichtung des Nivelliers liegt. SP1 wird z.B. mittels </tspan><tspan
+       x="51.375"
+       y="710.88847"
+       id="tspan337632">Peilstange (oder Helfer) markiert. Der Abstand zwischen SP1 und SP2 wird bestimmt.
+</tspan><tspan
+       x="51.375"
+       y="724.22185"
+       id="tspan337634">Das Nivellier wird dann an SP2 aufgestellt und SP1 angepeilt und die Skala am Nivellier genullt.
+</tspan><tspan
+       x="51.375"
+       y="737.55522"
+       id="tspan337636">Anschließend wird das Ziel angepeilt und der Winkel zwischen SP1 und Ziel abgelesen.
+</tspan><tspan
+       x="51.375"
+       y="750.88859"
+       id="tspan337638">An der Rechenscheibe wird nun zunächst der Abstand zwischen SP1 und SP2 eingestellt. Dadurch dreht </tspan><tspan
+       x="51.375"
+       y="764.22197"
+       id="tspan337640">man die Entfernungsscheibe so wei, dass der Pfeil auf der Winkelscheibe bei 50gon auf die Entfernung </tspan><tspan
+       x="51.375"
+       y="777.55534"
+       id="tspan337642">zwischen SP1 und SP2 zeigt. Dann findet man den Winkel zwischen SP1 und Ziel auf der Winkelskla. Der </tspan><tspan
+       x="51.375"
+       y="790.88872"
+       id="tspan337644">Gegenüberliegende Wert auf dre Entfernungsskala entspricht dann dem Abstand zischen SP1 und Ziel.</tspan></text>
+  <g
+     id="g96538"
+     transform="translate(-15.19356,-32.044672)">
+    <text
+       xml:space="preserve"
+       id="text311481"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';white-space:pre;shape-inside:url(#rect311483)"
+       transform="translate(-5.7529574,21.359925)"><tspan
+         x="617.54297"
+         y="616.73857"
+         id="tspan337648"><tspan
+   style="font-weight:bold;-inkscape-font-specification:'Noto sans Bold'"
+   id="tspan337646">Zusammenbau:</tspan>
+</tspan><tspan
+         x="617.54297"
+         y="630.07194"
+         id="tspan337650">Diese Seite Ausdrucken und Laminieren. Dann die Kreise Ausschneiden </tspan><tspan
+         x="617.54297"
+         y="643.40532"
+         id="tspan337652">und an den Kreuzen einstechen und ein Loch erzeugen. Mit einem </tspan><tspan
+         x="617.54297"
+         y="656.73869"
+         id="tspan337654">Reißzweck oder Papierniet durchstechen und verbinden. Dabei sollte </tspan><tspan
+         x="617.54297"
+         y="670.07207"
+         id="tspan337656">dafür gesorgt werden, dass die Kreiszentren sich möglichst exakt </tspan><tspan
+         x="617.54297"
+         y="683.40544"
+         id="tspan337658">übereinander drehen und möglichst wenig Spiel bieten.
+</tspan><tspan
+         x="617.54297"
+         y="696.73881"
+         id="tspan337660">Ggf. kann man auch zuerst ausschneiden und dann laminieren, das </tspan><tspan
+         x="617.54297"
+         y="710.07219"
+         id="tspan337662">macht das macht das Instrument vielleicht etwas wasserabweisender. </tspan></text>
     <g
-       id="g17382">
+       id="g96516"
+       transform="translate(-8.7418104,38.160661)">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999921"
+         id="path95709"
+         cx="1019.8168"
+         cy="659.42926"
+         rx="49.073364"
+         ry="25.975222" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999921"
+         id="path95733"
+         cx="1019.1449"
+         cy="660.22711"
+         rx="34.996525"
+         ry="16.466751" />
+      <ellipse
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999921"
+         id="path95733-3"
+         cx="1019.2208"
+         cy="632.52179"
+         rx="34.996525"
+         ry="16.466751" />
+      <ellipse
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999921"
+         id="path95877"
+         cx="1019.6771"
+         cy="631.74994"
+         rx="23.501762"
+         ry="8.9447365" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1016.6663,631.84272 h 6.3265"
+         id="path95944" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1019.1018,655.41672 v 6.60909"
+         id="path95946" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1015.0193,658.85029 h 8.8278"
+         id="path95948" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1019.9909,629.42612 v 5.41225"
+         id="path96143" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999921"
+         id="path96247"
+         cx="1020.8254"
+         cy="601.15131"
+         rx="5.5032797"
+         ry="1.7962351" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1020.862,603.38063 c 0,3.78237 0,3.78237 0,3.78237 v 0"
+         id="path96338" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1020.862,607.163 -0.9006,24.96906"
+         id="path96340" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1019.5541,649.25133 -0.4071,9.3693"
+         id="path96342" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     id="text130672"
+     style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';white-space:pre;shape-inside:url(#rect130674)"
+     transform="translate(-14.93708,128.07666)"><tspan
+       x="55.097656"
+       y="594.06083"
+       id="tspan337666"><tspan
+   style="font-weight:bold;-inkscape-font-specification:'Noto sans Bold'"
+   id="tspan337664">Beispiel:</tspan>
+</tspan><tspan
+       x="55.097656"
+       y="607.39421"
+       id="tspan337668"> SP1 und SP2 sind 20m entfernt. Wir stellen am Pfeil 20m auf der inneren Skala ein. von SP2 aus peilen </tspan><tspan
+       x="55.097656"
+       y="620.72758"
+       id="tspan337670">wir 80gon auf unser Ziel. Wir suchen die Zahl &quot;80&quot; auf der äußeren Skala und lesen ihr gegenüber auf </tspan><tspan
+       x="55.097656"
+       y="634.06096"
+       id="tspan337672">der inneren Skala &quot;62&quot; ab. Die Entfernung zwischen SP1 und Ziel beträgt also 62m.</tspan></text>
+  <g
+     id="g324451">
+    <g
+       id="g128213"
+       transform="translate(17.986444,20.674118)">
+      <g
+         id="g307041"
+         transform="translate(-5.3389639,-29.402871)">
+        <line
+           x1="779.27094"
+           y1="328.41034"
+           x2="803.27094"
+           y2="328.41034"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line2-8" />
+        <line
+           x1="791.27094"
+           y1="316.41034"
+           x2="791.27094"
+           y2="340.41034"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line4-6" />
+        <circle
+           cx="791.27094"
+           cy="328.41034"
+           r="210"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle6-8" />
+        <circle
+           cx="791.27094"
+           cy="328.41034"
+           r="270"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle8-8" />
+        <line
+           x1="596.37292"
+           y1="250.21436"
+           x2="588.0199"
+           y2="246.86336"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line10-4" />
+        <text
+           x="-622.65619"
+           y="-4.1597481"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-158.139)"
+           id="text12-3">5</text>
+        <line
+           x1="615.66992"
+           y1="213.23935"
+           x2="610.65289"
+           y2="209.94835"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line14-1" />
+        <text
+           x="-607.7663"
+           y="165.35039"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-146.74)"
+           id="text16">6</text>
+        <line
+           x1="637.47693"
+           y1="185.41635"
+           x2="633.08289"
+           y2="181.33035"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line18-4" />
+        <text
+           x="-569.11243"
+           y="304.28424"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-137.084)"
+           id="text20">7</text>
+        <line
+           x1="659.96991"
+           y1="164.52036"
+           x2="656.21893"
+           y2="159.83736"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line22-9" />
+        <text
+           x="-517.03772"
+           y="418.19574"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-128.7)"
+           id="text24-2">8</text>
+        <line
+           x1="682.21796"
+           y1="148.94637"
+           x2="679.10193"
+           y2="143.81836"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line26-0" />
+        <text
+           x="-457.56116"
+           y="511.67404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-121.285)"
+           id="text28">9</text>
+        <line
+           x1="703.74292"
+           y1="137.52036"
+           x2="698.74091"
+           y2="126.61236"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line30-6" />
+        <text
+           x="-394.32895"
+           y="588.37939"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-114.633)"
+           id="text32">10</text>
+        <line
+           x1="724.30695"
+           y1="129.37335"
+           x2="722.39392"
+           y2="123.68635"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line34-8" />
+        <text
+           x="-329.58386"
+           y="651.24121"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-108.595)"
+           id="text36-9">11</text>
+        <line
+           x1="743.80792"
+           y1="123.84435"
+           x2="742.4519"
+           y2="117.99934"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line38-2" />
+        <text
+           x="-264.75665"
+           y="702.56647"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-103.063)"
+           id="text40">12</text>
+        <line
+           x1="762.2149"
+           y1="120.43034"
+           x2="761.38495"
+           y2="114.48734"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line42" />
+        <text
+           x="-200.7325"
+           y="744.22131"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-97.953)"
+           id="text44">13</text>
+        <line
+           x1="779.54193"
+           y1="118.73835"
+           x2="779.20691"
+           y2="112.74734"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line46-6" />
+        <text
+           x="-138.09515"
+           y="777.69177"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-93.202)"
+           id="text48-6">14</text>
+        <line
+           x1="795.82391"
+           y1="118.45934"
+           x2="796.01892"
+           y2="109.46135"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line50-4" />
+        <text
+           x="-77.182167"
+           y="804.20343"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-88.758)"
+           id="text52">15</text>
+        <line
+           x1="811.10693"
+           y1="119.34935"
+           x2="811.67395"
+           y2="113.37634"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line54" />
+        <line
+           x1="825.44592"
+           y1="121.20934"
+           x2="826.42194"
+           y2="115.28934"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line56-9" />
+        <line
+           x1="838.89294"
+           y1="123.88135"
+           x2="840.25391"
+           y2="118.03735"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line58-5" />
+        <line
+           x1="851.50293"
+           y1="127.23335"
+           x2="853.22394"
+           y2="121.48534"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line60" />
+        <line
+           x1="863.32593"
+           y1="131.15936"
+           x2="867.44391"
+           y2="119.88734"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line62-0" />
+        <text
+           x="197.02667"
+           y="861.91827"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-69.933)"
+           id="text64">20</text>
+        <line
+           x1="874.41193"
+           y1="135.56935"
+           x2="876.78693"
+           y2="130.05936"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line66" />
+        <line
+           x1="884.80493"
+           y1="140.39037"
+           x2="887.47693"
+           y2="135.01836"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line68-4" />
+        <line
+           x1="894.54791"
+           y1="145.56036"
+           x2="897.49792"
+           y2="140.33636"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line70-8" />
+        <line
+           x1="903.67889"
+           y1="151.02835"
+           x2="906.89093"
+           y2="145.96036"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line72" />
+        <line
+           x1="912.2359"
+           y1="156.74936"
+           x2="917.41992"
+           y2="149.39236"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line74-7" />
+        <text
+           x="421.33215"
+           y="841.98425"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-54.829)"
+           id="text76">25</text>
+        <line
+           x1="920.25092"
+           y1="162.68735"
+           x2="923.93591"
+           y2="157.95236"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line78" />
+        <line
+           x1="927.75494"
+           y1="168.81035"
+           x2="931.65393"
+           y2="164.25035"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line80-1" />
+        <line
+           x1="934.7749"
+           y1="175.09135"
+           x2="938.87494"
+           y2="170.71135"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line82-7" />
+        <line
+           x1="941.33691"
+           y1="181.50836"
+           x2="945.62494"
+           y2="177.31136"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line84" />
+        <line
+           x1="947.4649"
+           y1="188.04135"
+           x2="956.39093"
+           y2="180.02036"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line86-2" />
+        <text
+           x="603.02185"
+           y="779.1662"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-41.945)"
+           id="text88">30</text>
+        <line
+           x1="953.17993"
+           y1="194.67436"
+           x2="957.80591"
+           y2="190.85335"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line90" />
+        <line
+           x1="958.50189"
+           y1="201.39136"
+           x2="963.27991"
+           y2="197.76236"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line92-7" />
+        <line
+           x1="963.44891"
+           y1="208.18236"
+           x2="968.36792"
+           y2="204.74736"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line94-2" />
+        <line
+           x1="968.03595"
+           y1="215.03435"
+           x2="973.08691"
+           y2="211.79535"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line96" />
+        <line
+           x1="972.27991"
+           y1="221.94035"
+           x2="980.03693"
+           y2="217.37735"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line98-2" />
+        <text
+           x="749.53125"
+           y="690.24451"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-30.464)"
+           id="text100">35</text>
+        <line
+           x1="976.19189"
+           y1="228.89136"
+           x2="981.47589"
+           y2="226.04735"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line102-6" />
+        <line
+           x1="979.78693"
+           y1="235.88036"
+           x2="985.17291"
+           y2="233.23636"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line104-1" />
+        <line
+           x1="983.07391"
+           y1="242.90236"
+           x2="988.55396"
+           y2="240.45836"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line106-0" />
+        <line
+           x1="986.0639"
+           y1="249.95135"
+           x2="991.62891"
+           y2="247.70935"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line108-6" />
+        <line
+           x1="988.76495"
+           y1="257.02435"
+           x2="1000.0509"
+           y2="252.94536"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line110-1" />
+        <text
+           x="866.5108"
+           y="583.83478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-19.873)"
+           id="text112">40</text>
+        <line
+           x1="991.18695"
+           y1="264.11633"
+           x2="996.89893"
+           y2="262.27936"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line114-5" />
+        <line
+           x1="993.33496"
+           y1="271.22534"
+           x2="999.10791"
+           y2="269.59134"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line116-9" />
+        <line
+           x1="995.21594"
+           y1="278.34735"
+           x2="1001.0429"
+           y2="276.91635"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line118" />
+        <line
+           x1="996.83594"
+           y1="285.48035"
+           x2="1002.7089"
+           y2="284.25433"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line120-4" />
+        <line
+           x1="998.19891"
+           y1="292.62234"
+           x2="1007.0669"
+           y2="291.08932"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line122-9" />
+        <text
+           x="957.73004"
+           y="464.45157"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-9.812)"
+           id="text124">45</text>
+        <line
+           x1="999.30896"
+           y1="299.77234"
+           x2="1005.2529"
+           y2="298.95435"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line126-0" />
+        <line
+           x1="1000.1689"
+           y1="306.92734"
+           x2="1006.1379"
+           y2="306.31335"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line128-9" />
+        <line
+           x1="1000.7819"
+           y1="314.08633"
+           x2="1006.7679"
+           y2="313.67633"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line130" />
+        <line
+           x1="1001.1489"
+           y1="321.24734"
+           x2="1007.1449"
+           y2="321.04333"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line132-1" />
+        <polygon
+           points="510,300 534,297 534,303 "
+           style="fill:#000000;stroke:#000000;stroke-width:0.5"
+           id="polygon134"
+           transform="translate(491.27092,28.410352)" />
+        <text
+           x="1031.2709"
+           y="334.41034"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           id="text136">50</text>
+        <line
+           x1="1001.1489"
+           y1="335.57333"
+           x2="1007.1449"
+           y2="335.77734"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line138-7" />
+        <line
+           x1="1000.7819"
+           y1="342.73434"
+           x2="1006.7679"
+           y2="343.14435"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line140-7" />
+        <line
+           x1="1000.1689"
+           y1="349.89334"
+           x2="1006.1379"
+           y2="350.50732"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line142" />
+        <line
+           x1="999.30896"
+           y1="357.04834"
+           x2="1005.2529"
+           y2="357.86633"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line144-1" />
+        <line
+           x1="998.19891"
+           y1="364.19833"
+           x2="1007.0669"
+           y2="365.73135"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line146-1" />
+        <text
+           x="1069.6627"
+           y="194.76131"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(9.812)"
+           id="text148">55</text>
+        <line
+           x1="996.83594"
+           y1="371.34033"
+           x2="1002.7089"
+           y2="372.56635"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line150-5" />
+        <line
+           x1="995.21594"
+           y1="378.47333"
+           x2="1001.0429"
+           y2="379.90433"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line152-9" />
+        <line
+           x1="993.33496"
+           y1="385.59534"
+           x2="999.10791"
+           y2="387.22934"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line154" />
+        <line
+           x1="991.18695"
+           y1="392.70435"
+           x2="996.89893"
+           y2="394.54135"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line156-7" />
+        <line
+           x1="988.76495"
+           y1="399.79633"
+           x2="1000.0509"
+           y2="403.87534"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line158-7" />
+        <text
+           x="1089.7881"
+           y="45.871197"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(19.873)"
+           id="text160">60</text>
+        <line
+           x1="986.0639"
+           y1="406.86935"
+           x2="991.62891"
+           y2="409.11133"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line162-6" />
+        <line
+           x1="983.07391"
+           y1="413.91833"
+           x2="988.55396"
+           y2="416.36234"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line164-7" />
+        <line
+           x1="979.78693"
+           y1="420.94034"
+           x2="985.17291"
+           y2="423.58435"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line166" />
+        <line
+           x1="976.19189"
+           y1="427.92935"
+           x2="981.47589"
+           y2="430.77335"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line168-3" />
+        <line
+           x1="972.27991"
+           y1="434.88034"
+           x2="980.03693"
+           y2="439.44333"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line170-6" />
+        <text
+           x="1082.5374"
+           y="-112.09929"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(30.464)"
+           id="text172">65</text>
+        <line
+           x1="968.03595"
+           y1="441.78635"
+           x2="973.08691"
+           y2="445.02533"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line174-5" />
+        <line
+           x1="963.44891"
+           y1="448.63834"
+           x2="968.36792"
+           y2="452.07333"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line176-6" />
+        <line
+           x1="958.50189"
+           y1="455.42935"
+           x2="963.27991"
+           y2="459.05835"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line178" />
+        <line
+           x1="953.17993"
+           y1="462.14633"
+           x2="957.80591"
+           y2="465.96735"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line180-3" />
+        <line
+           x1="947.4649"
+           y1="468.77933"
+           x2="956.39093"
+           y2="476.80035"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line182-9" />
+        <text
+           x="1042.052"
+           y="-278.63159"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(41.945)"
+           id="text184">70</text>
+        <line
+           x1="941.33691"
+           y1="475.31235"
+           x2="945.62494"
+           y2="479.50934"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line186-4" />
+        <line
+           x1="934.7749"
+           y1="481.72934"
+           x2="938.87494"
+           y2="486.10934"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line188-8" />
+        <line
+           x1="927.75494"
+           y1="488.01035"
+           x2="931.65393"
+           y2="492.57034"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line190" />
+        <line
+           x1="920.25092"
+           y1="494.13333"
+           x2="923.93591"
+           y2="498.86835"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line192-1" />
+        <line
+           x1="912.2359"
+           y1="500.07135"
+           x2="917.41992"
+           y2="507.42834"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line194-2" />
+        <text
+           x="958.24146"
+           y="-451.64331"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(54.829)"
+           id="text196">75</text>
+        <line
+           x1="903.67889"
+           y1="505.79233"
+           x2="906.89093"
+           y2="510.86038"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line198-9" />
+        <line
+           x1="894.54791"
+           y1="511.26035"
+           x2="897.49792"
+           y2="516.48431"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line200-3" />
+        <line
+           x1="884.80493"
+           y1="516.4303"
+           x2="887.47693"
+           y2="521.80231"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line202" />
+        <line
+           x1="874.41193"
+           y1="521.25134"
+           x2="876.78693"
+           y2="526.76135"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line204-9" />
+        <line
+           x1="863.32593"
+           y1="525.66132"
+           x2="867.44391"
+           y2="536.93335"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line206-0" />
+        <text
+           x="813.97314"
+           y="-624.55072"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(69.933)"
+           id="text208">80</text>
+        <line
+           x1="851.50293"
+           y1="529.58734"
+           x2="853.22394"
+           y2="535.33533"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line210-8" />
+        <line
+           x1="838.89294"
+           y1="532.93933"
+           x2="840.25391"
+           y2="538.78333"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line212-8" />
+        <line
+           x1="825.44592"
+           y1="535.61133"
+           x2="826.42194"
+           y2="541.53131"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line214" />
+        <line
+           x1="811.10693"
+           y1="537.47131"
+           x2="811.67395"
+           y2="543.44434"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line216-5" />
+        <line
+           x1="795.82391"
+           y1="538.36133"
+           x2="796.01892"
+           y2="547.35931"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line218-0" />
+        <text
+           x="579.48425"
+           y="-777.96667"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(88.758)"
+           id="text220">85</text>
+        <line
+           x1="779.54193"
+           y1="538.08234"
+           x2="779.20691"
+           y2="544.07336"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line222-9" />
+        <text
+           x="517.70007"
+           y="-802.37946"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(93.202)"
+           id="text224">86</text>
+        <line
+           x1="762.2149"
+           y1="536.39032"
+           x2="761.38495"
+           y2="542.33331"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line226" />
+        <text
+           x="449.77087"
+           y="-823.09949"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(97.953)"
+           id="text228">87</text>
+        <line
+           x1="743.80792"
+           y1="532.97632"
+           x2="742.4519"
+           y2="538.82135"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line230-6" />
+        <text
+           x="375.06693"
+           y="-839.02258"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(103.063)"
+           id="text232">88</text>
+        <line
+           x1="724.30695"
+           y1="527.44733"
+           x2="722.39392"
+           y2="533.13434"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line234-3" />
+        <text
+           x="292.94833"
+           y="-848.68597"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(108.595)"
+           id="text236">89</text>
+        <line
+           x1="703.74292"
+           y1="519.30035"
+           x2="698.74091"
+           y2="530.20831"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line238" />
+        <text
+           x="202.71855"
+           y="-850.1452"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(114.633)"
+           id="text240">90</text>
+        <line
+           x1="682.21796"
+           y1="507.87433"
+           x2="679.10193"
+           y2="513.00232"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line242-8" />
+        <text
+           x="103.75444"
+           y="-840.758"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(121.285)"
+           id="text244">91</text>
+        <line
+           x1="659.96991"
+           y1="492.30035"
+           x2="656.21893"
+           y2="496.98334"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line246-5" />
+        <text
+           x="-4.4349055"
+           y="-816.86804"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(128.7)"
+           id="text248">92</text>
+        <line
+           x1="637.47693"
+           y1="471.40433"
+           x2="633.08289"
+           y2="475.49033"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line250" />
+        <text
+           x="-121.86649"
+           y="-773.30872"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(137.084)"
+           id="text252">93</text>
+        <line
+           x1="615.66992"
+           y1="443.58133"
+           x2="610.65289"
+           y2="446.87234"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line254-6" />
+        <text
+           x="-247.54007"
+           y="-702.57758"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(146.74)"
+           id="text256">94</text>
+        <line
+           x1="596.37292"
+           y1="406.60635"
+           x2="588.0199"
+           y2="409.95734"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line258-1" />
+        <text
+           x="-378.08499"
+           y="-593.42889"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(158.139)"
+           id="text260">95</text>
+        <line
+           x1="583.28094"
+           y1="357.39633"
+           x2="577.33893"
+           y2="358.22534"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line262" />
+        <text
+           x="-504.36542"
+           y="-428.48764"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(172.066)"
+           id="text264">96</text>
+        <line
+           x1="584.4599"
+           y1="291.95132"
+           x2="578.5509"
+           y2="290.90933"
+           style="fill:none;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"
+           id="line266-1" />
+        <text
+           x="-602.27112"
+           y="-180.04749"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+           transform="rotate(-170.002)"
+           id="text268">97</text>
+        <text
+           xml:space="preserve"
+           style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+           x="674.31317"
+           y="202.21536"
+           id="text24140"><tspan
+             sodipodi:role="line"
+             id="tspan24138"
+             x="674.31317"
+             y="206.75035">This Artwork is free to be distributed</tspan><tspan
+             sodipodi:role="line"
+             x="674.31317"
+             y="223.41698"
+             id="tspan30384">under Creative Commons Zero</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+           x="621.30304"
+           y="242.37375"
+           id="text32566"><tspan
+             sodipodi:role="line"
+             id="tspan32564"
+             x="621.30304"
+             y="242.37375">https://creativecommons.org/publicdomain/zero/1.0/</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+           x="618.00861"
+           y="405.21606"
+           id="text10754"><tspan
+             sodipodi:role="line"
+             id="tspan10752"
+             x="618.00861"
+             y="405.21606"
+             style="font-size:10.6667px">https://github.com/prandma/Rechenscheibe_Distanzmessung_Nivellier</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';stroke:none"
+           id="text89814"><textPath
+             xlink:href="#circle8-8-2"
+             id="textPath92405"><tspan
+               id="tspan89812"
+               style="stroke:none">Winkel [gon]                           Winkel [gon]                             Winkel [gon]                              Winkel [gon]                              Winkel [gon]                              Winkel [gon]                              Winkel [gon]                              Winkel [gon]                              Winkel [gon]                          </tspan></textPath></text>
+        <ellipse
+           cx="791.13617"
+           cy="328.40881"
+           style="fill:none;stroke:none;stroke-width:0.724016;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle8-8-2"
+           rx="258.54111"
+           ry="258.67737" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+       x="961.48853"
+       y="562.28668"
+       id="text154414"><tspan
+         sodipodi:role="line"
+         id="tspan154412"
+         x="961.48853"
+         y="562.28668">Skala: log(d)</tspan></text>
+  </g>
+  <g
+     id="g324300">
+    <g
+       id="g323720"
+       transform="translate(-12.043918,-16.60625)">
       <g
          id="g1766"
          transform="translate(0.0332841,-2.8337848)">
@@ -2742,241 +2981,273 @@
            ry="142.45995" />
       </g>
       <g
-         id="g17095">
+         id="g323431">
+        <text
+           xml:space="preserve"
+           style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';text-align:center;text-anchor:middle"
+           x="278.65683"
+           y="185.08752"
+           id="text26644"><tspan
+             sodipodi:role="line"
+             id="tspan26642"
+             x="278.65683"
+             y="189.62251"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto sans';-inkscape-font-specification:'Noto sans Bold'">Abstandsbestimmung über</tspan><tspan
+             sodipodi:role="line"
+             x="278.65683"
+             y="206.28914"
+             id="tspan26646"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto sans';-inkscape-font-specification:'Noto sans Bold'">Triangulation mit dem Nivellier</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+           x="229.48232"
+           y="163.49214"
+           id="text55866"><tspan
+             sodipodi:role="line"
+             id="tspan55864"
+             x="229.48232"
+             y="163.49214"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto sans';-inkscape-font-specification:'Noto sans Bold'">Rechenscheibe</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+           x="153.71617"
+           y="311.39423"
+           id="text150471-0"><tspan
+             sodipodi:role="line"
+             x="153.71617"
+             y="311.39423"
+             id="tspan156143-9">3. Entfernung entspricht gegenüberligendem Wert</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+           x="164.79301"
+           y="326.99252"
+           id="text162051-3"><tspan
+             sodipodi:role="line"
+             id="tspan162049-6"
+             x="164.79301"
+             y="326.99252">auf der Entfernungsskala</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+           x="153.24684"
+           y="228.44571"
+           id="text132153"><tspan
+             sodipodi:role="line"
+             x="153.24684"
+             y="228.44571"
+             style="font-size:10.6667px"
+             id="tspan137795">1. Entfernung zw. Standpunkten an Pfeil einstellen</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+           x="153.68419"
+           y="248.1707"
+           id="text150471"><tspan
+             sodipodi:role="line"
+             id="tspan272871"
+             x="153.68419"
+             y="248.1707">2. Winkel zwischen SP1 und Ziel bestimmen und</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+           x="165.23875"
+           y="261.32309"
+           id="text162051"><tspan
+             sodipodi:role="line"
+             id="tspan162049"
+             x="165.23875"
+             y="261.32309">auf Winkelskala finden</tspan></text>
         <g
-           id="g288612"
-           transform="translate(437.23222,191.61149)">
+           id="g288570"
+           transform="translate(-7.3805436,0.61049035)">
           <text
              xml:space="preserve"
-             style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';text-align:center;text-anchor:middle"
-             x="-158.57538"
-             y="-6.5239639"
-             id="text26644"><tspan
+             style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+             x="329.65784"
+             y="375.31104"
+             id="text177635-9"><tspan
                sodipodi:role="line"
-               id="tspan26642"
-               x="-158.57538"
-               y="-1.9889778"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto sans';-inkscape-font-specification:'Noto sans Bold'">Abstandsbestimmung über</tspan><tspan
-               sodipodi:role="line"
-               x="-158.57538"
-               y="14.677647"
-               id="tspan26646"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto sans';-inkscape-font-specification:'Noto sans Bold'">Triangulation mit dem Nivellier</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:13.3333px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-             x="-207.74991"
-             y="-28.119347"
-             id="text55866"><tspan
-               sodipodi:role="line"
-               id="tspan55864"
-               x="-207.74991"
-               y="-28.119347"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto sans';-inkscape-font-specification:'Noto sans Bold'">Rechenscheibe</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-             x="-281.51605"
-             y="119.78272"
-             id="text150471-0"><tspan
-               sodipodi:role="line"
-               x="-281.51605"
-               y="119.78272"
-               id="tspan156143-9">3. Entfernung entspricht gegenüberligendem Wert</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-             x="-272.43921"
-             y="135.38104"
-             id="text162051-3"><tspan
-               sodipodi:role="line"
-               id="tspan162049-6"
-               x="-272.43921"
-               y="135.38104">auf der Entfernungsskala</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-             x="-281.98538"
-             y="40.834221"
-             id="text132153"><tspan
-               sodipodi:role="line"
-               x="-281.98538"
-               y="40.834221"
-               style="font-size:10.6667px"
-               id="tspan137795">1. Entfernung zw. Standpunkten an Pfeil einstellen</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-             x="-281.54803"
-             y="60.559212"
-             id="text150471"><tspan
-               sodipodi:role="line"
-               x="-281.54803"
-               y="60.559212"
-               id="tspan156143">2. Winkel zwischen 1. SP und Ziel bestimmen und</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-             x="-269.99347"
-             y="73.711586"
-             id="text162051"><tspan
-               sodipodi:role="line"
-               id="tspan162049"
-               x="-269.99347"
-               y="73.711586">auf Winkelskala finden</tspan></text>
-          <g
-             id="g288536"
-             transform="translate(-474.25239,-192.95823)">
-            <path
-               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               d="m 291.67982,346.39898 -26.81938,53.25863 26.6026,0.0255 z"
-               id="path174973"
-               sodipodi:nodetypes="cccc" />
-            <text
-               xml:space="preserve"
-               style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-               x="277.45618"
-               y="406.79327"
-               id="text177635"><tspan
-                 sodipodi:role="line"
-                 id="tspan177633"
-                 x="277.45618"
-                 y="406.79327"
-                 style="font-size:8px">1</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-               x="268.45496"
-               y="398.33908"
-               id="text185331"><tspan
-                 sodipodi:role="line"
-                 id="tspan185329"
-                 x="268.45496"
-                 y="398.33908">2</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-               x="292.80606"
-               y="378.02716"
-               id="text189049"><tspan
-                 sodipodi:role="line"
-                 id="tspan189047"
-                 x="292.80606"
-                 y="378.02716">3</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-               x="291.6167"
-               y="405.59329"
-               id="text198421"><tspan
-                 sodipodi:role="line"
-                 id="tspan198419"
-                 x="291.6167"
-                 y="405.59329"
-                 style="font-size:8px">SP1</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-               x="250.40781"
-               y="405.81732"
-               id="text198421-0"><tspan
-                 sodipodi:role="line"
-                 id="tspan198419-6"
-                 x="250.40781"
-                 y="405.81732"
-                 style="font-size:8px">SP2</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
-               x="285.1438"
-               y="345.57077"
-               id="text198421-2"><tspan
-                 sodipodi:role="line"
-                 id="tspan198419-61"
-                 x="285.1438"
-                 y="345.57077"
-                 style="font-size:8px">Ziel</tspan></text>
-          </g>
-          <g
-             id="g288570"
-             transform="translate(-445.36141,-193.06534)">
-            <text
-               xml:space="preserve"
-               style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+               id="tspan177633-2"
                x="329.65784"
                y="375.31104"
-               id="text177635-9"><tspan
-                 sodipodi:role="line"
-                 id="tspan177633-2"
-                 x="329.65784"
-                 y="375.31104"
-                 style="font-size:8px">1</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+               style="font-size:8px">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+             x="325.93796"
+             y="394.5033"
+             id="text185331-0"><tspan
+               sodipodi:role="line"
+               id="tspan185329-2"
                x="325.93796"
-               y="394.5033"
-               id="text185331-0"><tspan
-                 sodipodi:role="line"
-                 id="tspan185329-2"
-                 x="325.93796"
-                 y="394.5033">2</tspan></text>
-            <path
-               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               d="m 322.77897,383.1117 2.53893,9.91704"
-               id="path285397"
-               sodipodi:nodetypes="cc" />
-            <text
-               xml:space="preserve"
-               style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+               y="394.5033">2</tspan></text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 322.77897,383.1117 2.53893,9.91704"
+             id="path285397"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+             x="324.04965"
+             y="385.94583"
+             id="text185331-0-3"><tspan
+               sodipodi:role="line"
+               id="tspan185329-2-7"
                x="324.04965"
-               y="385.94583"
-               id="text185331-0-3"><tspan
-                 sodipodi:role="line"
-                 id="tspan185329-2-7"
-                 x="324.04965"
-                 y="385.94583">3</tspan></text>
-            <circle
-               style="fill:none;stroke:#000000;stroke-width:0.494551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999921"
-               id="path284768"
-               cx="320.04416"
-               cy="373.01099"
-               r="24.752724" />
-            <circle
-               style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999921"
-               id="path284768-8"
-               cx="320.01849"
-               cy="373.04117"
-               r="15.511311" />
-            <polygon
-               points="534,303 510,300 534,297 "
-               style="fill:#000000;stroke:#000000;stroke-width:0.5"
-               id="polygon134-7"
-               transform="matrix(0.29150714,0,0,-0.8515403,187.71491,628.69572)" />
-          </g>
+               y="385.94583">3</tspan></text>
+          <circle
+             style="fill:none;stroke:#000000;stroke-width:0.494551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999921"
+             id="path284768"
+             cx="320.04416"
+             cy="373.01099"
+             r="24.752724" />
+          <circle
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999921"
+             id="path284768-8"
+             cx="320.01849"
+             cy="373.04117"
+             r="15.511311" />
+          <polygon
+             points="534,297 534,303 510,300 "
+             style="fill:#000000;stroke:#000000;stroke-width:0.5"
+             id="polygon134-7"
+             transform="matrix(0.29150714,0,0,-0.8515403,187.71491,628.69572)" />
+        </g>
+        <g
+           id="g323386">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 254.65965,345.05224 -26.81938,53.25863 26.6026,0.0255 z"
+             id="path174973"
+             sodipodi:nodetypes="cccc" />
+          <text
+             xml:space="preserve"
+             style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+             x="240.64044"
+             y="405.98785"
+             id="text177635"><tspan
+               sodipodi:role="line"
+               id="tspan177633"
+               x="240.64044"
+               y="405.98785"
+               style="font-size:8px">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+             x="231.69479"
+             y="396.80746"
+             id="text185331"><tspan
+               sodipodi:role="line"
+               id="tspan185329"
+               x="231.69479"
+               y="396.80746">2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+             x="255.78589"
+             y="376.68042"
+             id="text189049"><tspan
+               sodipodi:role="line"
+               id="tspan189047"
+               x="255.78589"
+               y="376.68042">3</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+             x="254.59653"
+             y="404.24655"
+             id="text198421"><tspan
+               sodipodi:role="line"
+               id="tspan198419"
+               x="254.59653"
+               y="404.24655"
+               style="font-size:8px">SP1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+             x="213.38763"
+             y="404.47058"
+             id="text198421-0"><tspan
+               sodipodi:role="line"
+               id="tspan198419-6"
+               x="213.38763"
+               y="404.47058"
+               style="font-size:8px">SP2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:8px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+             x="248.12363"
+             y="344.22403"
+             id="text198421-2"><tspan
+               sodipodi:role="line"
+               id="tspan198419-61"
+               x="248.12363"
+               y="344.22403"
+               style="font-size:8px">Ziel</tspan></text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999921"
+             id="path1986"
+             sodipodi:type="arc"
+             sodipodi:cx="254.44287"
+             sodipodi:cy="398.3364"
+             sodipodi:rx="6.9492116"
+             sodipodi:ry="6.9492116"
+             sodipodi:start="3.1415927"
+             sodipodi:end="4.712389"
+             sodipodi:arc-type="slice"
+             d="m 247.49366,398.3364 a 6.9492116,6.9492116 0 0 1 6.94921,-6.94922 v 6.94922 z" />
+          <circle
+             style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999921"
+             id="path1988"
+             cx="251.62004"
+             cy="395.67075"
+             r="0.40702376" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+             d="m 240.94907,397.83888 c 0.41708,-6.40782 -4.70302,-8.81133 -4.70302,-8.81133"
+             id="path265926"
+             sodipodi:nodetypes="cc" />
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans'"
+       x="387.9223"
+       y="462.1069"
+       id="text157304"><tspan
+         sodipodi:role="line"
+         id="tspan157756"
+         x="387.9223"
+         y="462.1069">Skala: log(tan(α))</tspan></text>
   </g>
   <text
      xml:space="preserve"
-     id="text311481"
-     style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';white-space:pre;shape-inside:url(#rect311483)"
-     transform="translate(-10.698852,70.54512)"><tspan
-       x="617.54297"
-       y="616.73857"
-       id="tspan17887">Zusammenbau:
+     id="text173772"
+     style="font-size:10.6667px;line-height:1.25;font-family:'Noto sans';-inkscape-font-specification:'Noto sans';white-space:pre;shape-inside:url(#rect173774)"
+     transform="translate(-1.3757349,-9.5028637)"><tspan
+       x="598.74023"
+       y="724.71123"
+       id="tspan337676"><tspan
+   style="font-weight:bold;-inkscape-font-specification:'Noto sans Bold'"
+   id="tspan337674">Funktionsweise:</tspan>
 </tspan><tspan
-       x="617.54297"
-       y="630.07194"
-       id="tspan17889">Diese Seite Ausdrucken und Laminieren. Dann die Kreise Ausschneiden und an den Kreuzen </tspan><tspan
-       x="617.54297"
-       y="643.40532"
-       id="tspan17891">einstechen und ein Loch erzeugen. Mit einem Reißzweck oder Papierniet durchstechen und </tspan><tspan
-       x="617.54297"
-       y="656.73869"
-       id="tspan17893">verbinden. Ggf. kann man auch zuerst ausschneiden und dann Laminieren, das macht das </tspan><tspan
-       x="617.54297"
-       y="670.07207"
-       id="tspan17895">macht die Konstruktion vielleicht etwas wasseredichter. </tspan></text>
+       x="598.74023"
+       y="738.0446"
+       id="tspan337678">Für die Strecke E von SP1 zu Ziel und Strecke d von SP1 udn SP2 und Winkel α zwischen SP1 und Ziel
+</tspan><tspan
+       x="598.74023"
+       y="751.37797"
+       id="tspan337680">gilt: E = d tan α Aufgrund des Logarithmusgesetzes log (ab) = log a + log b ergibt sich
+</tspan><tspan
+       x="598.74023"
+       y="764.71135"
+       id="tspan337682">log E = log (d tan α)  = log d + log (tan α) Daher sind die Skalen logarithmiert und die die Addition </tspan><tspan
+       x="598.74023"
+       y="778.04472"
+       id="tspan337684">ergibt sich durch aneinanderlegen der Skalen, die Skalenwerte werden dadurch multipliziert.</tspan></text>
 </svg>
